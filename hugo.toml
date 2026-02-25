@@ -1,4 +1,33 @@
 baseURL = 'https://linn.today/'
 languageCode = 'en-us'
 title = 'Linn Today'
-theme = 'ananke'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    title = 'The Unbreakable Entrepreneur'
+    description = 'Building Revenue in a Crisis Economy'
+    author = 'Sai Han Linn'
+    
+    # Viral Features
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    
+    # AEO & SEO
+    schema = true
+    description = "Insights on last-mile sales and crisis economy revenue."
+
+    [params.profileMode]
+        enabled = true
+        title = "The Unbreakable Entrepreneur"
+        subtitle = "Memoirs and Strategies from the Crisis Economy."
+        imageUrl = "your-photo-link-here" # Add your photo link later
+        [[params.profileMode.buttons]]
+            name = "Read the Book"
+            url = "/posts"
+
+    [params.label]
+        text = "LINN.TODAY"
