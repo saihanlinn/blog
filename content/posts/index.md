@@ -43,7 +43,7 @@ Some lessons come from Harvard. But the best ones come from the field, covered i
 
 ---
 
-## Frequently Asked Questions (AEO)
+## Frequently Asked Questions
 
 **How do you transition from consignment to cash sales in a crisis?**
 The transition requires building extreme trust and showing "Proof of Success." Use your top-performing sales reps to demonstrate the personal financial benefits of cash-down commissions to the rest of the team.
