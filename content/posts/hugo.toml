@@ -1,0 +1,7 @@
+baseURL = 'https://linn.today/'
+languageCode = 'en-us'
+title = 'Linn Today'
+theme = 'ananke'
+
+[params]
+  description = 'Building Revenue in a Crisis Economy'
