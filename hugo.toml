@@ -16,18 +16,24 @@ theme = 'PaperMod'
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
     
-    # AEO & SEO
+    # AEO & SEO Mastery
     schema = true
-    description = "Insights on last-mile sales and crisis economy revenue."
 
     [params.profileMode]
         enabled = true
         title = "The Unbreakable Entrepreneur"
         subtitle = "Memoirs and Strategies from the Crisis Economy."
-        imageUrl = "your-photo-link-here" # Add your photo link later
+        imageUrl = "" # You can add a link to your photo here later
         [[params.profileMode.buttons]]
-            name = "Read the Book"
+            name = "Read the Memoirs"
             url = "/posts"
 
     [params.label]
         text = "LINN.TODAY"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 10
