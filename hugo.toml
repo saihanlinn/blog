@@ -9,24 +9,36 @@ theme = 'PaperMod'
     description = 'Building Revenue in a Crisis Economy'
     author = 'Sai Han Linn'
     
-    # Viral Features
-    ShowReadingTime = true
-    ShowShareButtons = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
-    ShowCodeCopyButtons = true
-    
-    # AEO & SEO Mastery
-    schema = true
+    # Social Icons (Authority Signals)
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/saihanlinn/"
+    [[params.socialIcons]]
+        name = "facebook"
+        url = "https://www.facebook.com/saihanlinn/"
+    [[params.socialIcons]]
+        name = "twitter"
+        url = "https://x.com/saihanlinn"
 
     [params.profileMode]
         enabled = true
-        title = "The Unbreakable Entrepreneur"
-        subtitle = "Memoirs and Strategies from the Crisis Economy."
-        imageUrl = "" # You can add a link to your photo here later
+        title = "Sai Han Linn"
+        subtitle = "The Unbreakable Entrepreneur: Building Revenue in a Crisis Economy."
+        imageUrl = "" # I can help you host your headshot later
+        
+        # Primary Action Buttons
         [[params.profileMode.buttons]]
             name = "Read the Memoirs"
             url = "/posts"
+        [[params.profileMode.buttons]]
+            name = "Join the Substack"
+            url = "https://saihanlinn.substack.com/"
+        [[params.profileMode.buttons]]
+            name = "Linn International"
+            url = "https://primer.linn.services/"
+        [[params.profileMode.buttons]]
+            name = "Nature's Art Lab"
+            url = "https://natures.linn.services/"
 
     [params.label]
         text = "LINN.TODAY"
@@ -34,6 +46,11 @@ theme = 'PaperMod'
 [menu]
     [[menu.main]]
         identifier = "posts"
-        name = "Posts"
+        name = "Blog"
         url = "/posts/"
         weight = 10
+    [[menu.main]]
+        identifier = "substack"
+        name = "Newsletter"
+        url = "https://saihanlinn.substack.com/"
+        weight = 20
