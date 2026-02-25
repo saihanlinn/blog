@@ -8,7 +8,7 @@ draft: false
 
 I have spent my life in the **last mile**. I have worked with social enterprises, INGOs, and businesses dealing with Bottom of the Pyramid customers again and again. 
 
-Even with the ongoing crisis in Myanmar, the reality of the work does not change. You pass a security checkpoint every mile, moving from one armed group to another. Some are friendly, while others are just there to make things hard. In that world, stability is non-existent.
+Even with the ongoing crisis in Myanmar, the reality of the work does not change. You pass a security checkpoint every 5 miles, moving from one armed group to another. Some are friendly, while others are just there to make things hard. In that world, stability is non-existent.
 
 In these environments, I’ve learned that we do not need to measure a lot of KPIs. If you want to build a truly **unbreakable revenue engine**, you need to stop looking at "Information" and start looking at "Value."
 
@@ -20,7 +20,7 @@ We used to live on 98% consignment. It looked like we were selling, but we were 
 I track the **Cash-Down Ratio**, which is the shift from high-risk consignment to immediate liquidity. But never forget: **Trust is also the Main Currency here.** If a customer pays cash when the world is falling apart, they aren't just buying a product; they are betting on your relationship.
 
 ## 2. Trust KPIs: The Repayment Rate
-When legal contracts are absent, your **Repayment Rate** is the only true measure of the health of your "Dealer Economy." I’ve mentored over 1,000 social enterprises, and the lesson is always the same: if the repayment stops, the mission ends. You measure trust by the frequency of return, not the size of the contract.
+When legal contracts are absent, your **Repayment Rate** is the only true measure of the health of your "Dealer Economy." I’ve mentored over 100 plus social enterprises, and the lesson is always the same: if the repayment stops, the mission ends. You measure trust by the frequency of return, not the size of the contract.
 
 ## 3. Consistency: Sales Days per Month
 I don’t care about the "Whale" deal. I reward the rep who shows up for **22 days a month**. 
