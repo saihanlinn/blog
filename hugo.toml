@@ -41,7 +41,7 @@ theme = 'PaperMod'
         
         # Primary Action Buttons
         [[params.profileMode.buttons]]
-            name = "Read the Memoirs"
+            name = "Read the Articles"
             url = "/posts"
         [[params.profileMode.buttons]]
             name = "Join the Substack"
