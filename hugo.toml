@@ -9,7 +9,17 @@ theme = 'PaperMod'
     description = 'Building Revenue in a Crisis Economy'
     author = 'Sai Han Linn'
     
-    # Social Icons (Authority Signals)
+    # This line enables the icons at the very bottom of every page
+    showFooterSocialButtons = true 
+
+    # Content Settings
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+
+    # Social Icons (Authority & Contact Signals)
     [[params.socialIcons]]
         name = "linkedin"
         url = "https://www.linkedin.com/in/saihanlinn/"
@@ -19,12 +29,15 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = "twitter"
         url = "https://x.com/saihanlinn"
+    [[params.socialIcons]]
+        name = "whatsapp"
+        url = "https://wa.me/959421157064"
 
     [params.profileMode]
         enabled = true
         title = "Sai Han Linn"
         subtitle = "The Unbreakable Entrepreneur: Building Revenue in a Crisis Economy."
-        imageUrl = "" # I can help you host your headshot later
+        imageUrl = "" 
         
         # Primary Action Buttons
         [[params.profileMode.buttons]]
