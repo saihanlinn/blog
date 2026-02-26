@@ -17,7 +17,7 @@ We had been in this new frontier for two months. Total sales: one.
 
 I didn't stay in the chair. I got on a field motorbike with my manager and reps. The faster you ride in that mountain air, the deeper the chill goes. We went to find the one man who had actually bought from us.
 
-{{< figure src="pin-laung-village.jpg" title="The view from Pin Laung" >}}
+{{< figure src="47.jpeg" title="The view from Pin Laung" >}}
 
 ### The Man with One Stomach
 We sat with him and asked a simple question: "Why you, and why nobody else?"
