@@ -1,6 +1,6 @@
 ---
 title: "Cetana"
-date: 2026-03-09
+date: 2026-03-12
 draft: false
 ---
 
