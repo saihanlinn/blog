@@ -1,6 +1,6 @@
 ---
 title: "The Dealer Economy"
-date: 2026-03-03T13:04:55
+date: 2026-03-03
 draft: false
 ---
 
