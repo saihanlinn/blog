@@ -1,6 +1,6 @@
 ---
 title: "Silos Are Dead"
-date: 2026-03-03T12:11:00
+date: 2026-03-03T12:11:50
 draft: false
 ---
 
