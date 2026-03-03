@@ -1,6 +1,6 @@
 ---
 title: "The Dealer Economy"
-date: 2026-03-03T13:00:47
+date: 2026-03-03T13:04:55
 draft: false
 ---
 
@@ -25,3 +25,5 @@ To win in the Dealer Economy, you must shift from a transactional mindset to an 
 * **Invest in their Growth**: When your dealers expand their local footprint, your volume naturally scales.
 
 The Dealer Economy requires grit. It demands presence. While your competitors are busy drafting tighter legal clauses, you should be busy building unbreakable relationships in the field.
+
+{{< figure src="36.jpeg" title="The Dealer Economy" >}}
