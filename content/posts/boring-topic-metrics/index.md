@@ -6,6 +6,12 @@ summary: "In a crisis economy, gross revenue is a vanity metric. True survival d
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 I have spent my life in the **last mile**. I have worked with social enterprises, INGOs, and businesses dealing with Bottom of the Pyramid customers again and again. 
 
 Even with the ongoing crisis in Myanmar, the reality of the work does not change. You pass a security checkpoint every 5 miles, moving from one armed group to another. Some are friendly, while others are just there to make things hard. In that world, stability is non-existent.

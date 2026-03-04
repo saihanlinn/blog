@@ -4,6 +4,12 @@ date: 2026-03-15
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # Beyond Survival: Navigating Small Business Challenges in Myanmar
 
 For small businesses in Myanmar, "business as usual" hasn't existed for a long time. The combination of unpredictable supply chains, fluctuating currency policies, and pervasive physical insecurity creates an environment that seems almost impossible to endure. Yet amidst these challenges, many entrepreneurs continue to persevere with remarkable resilience and adaptability. Here are some of my personal working examples and how we all can adapt it.

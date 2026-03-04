@@ -4,6 +4,12 @@ date: 2026-03-18
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # Closing a Million-Dollar B2B Deal
 
 It all started with a single LinkedIn message. Back in 2019, I reached out to the Managing Director of one of the world’s leading process engineering companies. They are a firm operating in over 140 countries. I introduced myself, shared the field-based sales transformation work we do at Primer International, and left it at that. Two months later, he replied: “Would you be able to visit our office in Thilawa SEZ?”

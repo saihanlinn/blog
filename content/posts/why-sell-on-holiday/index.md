@@ -4,6 +4,12 @@ date: 2026-06-07
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # Why Our Sales Reps Sell Even on Holidays, Without Anyone Pushing Them
 
 We were deep into Thingyan, Myanmar’s Water Festival. The streets were soaked, the music loud, and the country had officially hit pause. It’s the biggest holiday of the year, our traditional New Year, and most businesses shut down for at least a week, some even longer. Myanmar doesn’t just do one New Year. We’ve got four: Burmese, Karen, Diwali, and the Western calendar. Add in at least one public holiday every month, and you could almost say we’re the land of second chances. Miss one resolution? No problem, try again next New Year. But here’s what surprised me most. During the 2024 Water Festival, I noticed something odd. Over 70% of one of my client’s sales reps… hadn’t taken any days off.

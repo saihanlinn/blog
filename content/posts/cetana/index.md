@@ -4,6 +4,12 @@ date: 2026-03-12
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # The Limitless Reach of Cetana in Last-Mile Sales Management
 
 This week I want to write about something that shaped every last-mile sales team I ever built. It was never just the systems, the KPIs, or the coaching tools. It was the culture behind all of it. One word stands out across my entire career. စေတနာ (Cetana). 

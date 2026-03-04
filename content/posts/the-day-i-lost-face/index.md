@@ -6,6 +6,12 @@ summary: "How a policy confrontation in the Dry Zone proved that a self-sustaini
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 Real decentralization begins when your people can say “no” to you to protect the system you built together. In Kamma Township, I attempted to offer an installment plan to a customer, only to be publicly blocked by my Zone Manager, Chit Kaung. This loss of face was my proudest moment as a leader, proving the team had moved from blind obedience to radical ownership of company policy.
 
 

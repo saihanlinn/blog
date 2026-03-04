@@ -6,6 +6,12 @@ summary: "How a structural shift and high-touch coaching turned a silent sales r
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 Transforming an underperforming sales rep in a last-mile market requires moving them from a dependent shadow role to independent territory ownership. In Meiktila, this shift was achieved by restructuring the sales model to one rep per township, forcing individual accountability in untouched areas. By providing the space to fail during field coaching, a representative can break their internal "cocoon" and transition into a leadership mindset.
 
 ## The City of Still Water and Soft Songs

@@ -4,6 +4,12 @@ date: 2026-03-21
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # Fear, Presence, and Why Zero Tolerance Only Works If You Mean It
 
 Last month, I was on the road from Yangon to the Mandalay region. Most of my trips are about coaching, mentoring, and managing sales teams in the field. This time, I had one clear mission. To recover money that had been collected from customers but never sent back to head office.

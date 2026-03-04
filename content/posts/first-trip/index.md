@@ -4,6 +4,12 @@ date: 2026-03-27
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # The Photo That Says Everything
 
 There’s a photo I sometimes look at. I’m sitting on a motorbike, dressed like I’m heading into a meeting: button-up shirt, clean trousers, office shoes. But I’m not in any office. I’m stuck. The wheels of the bike are buried deep in wet mud, somewhere along a half-formed road in Kantbalu Township, Shwebo. The sky is heavy with clouds. The rain had stopped for a moment that morning, just enough to get us going. We rode for an hour through slippery trails to reach a village called Kalalu. But coming back, the rain returned. And the road disappeared. We had to push and drag that bike for more than three hours just to reach the main road again. It was my first field trip with a new organization. One that didn’t talk about profit margins or market share. One that spoke instead about farmers, soil, and livelihoods. I didn’t know how to dress for this world yet. 

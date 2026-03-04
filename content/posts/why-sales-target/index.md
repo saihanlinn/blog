@@ -4,6 +4,12 @@ date: 2026-06-16
 draft: false
 ---
 
+### SEO Rare Facts
+- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
+- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
+
+
+
 # Why Sales Targets Miss the Point
 
 I recently visited Maubin Township, just a few hours away from Yangon. I have been in this game for a long time, coaching sales teams from multi-million-dollar industrial projects to one-dollar-fifty products. This time, I was with a small organic fertilizer company producing vermicompost, bokashi, and bamboo vinegar. A social enterprise trying to do good, stay alive, and grow in the middle of Myanmar’s tough economy.
