@@ -4,47 +4,47 @@ date: 2026-05-11
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # The Most Ignored
 
-## The Shift from Profit to Purpose
+## Field Report: Executive Summary
+*   Sales consultant Myanmar shifted focus from profit to purpose, changing sales strategy.
+*   Last mile distribution success hinges on identifying and leveraging informal experts.
+*   Social enterprise sales growth depends on trust, adoption, and lasting impact in the BOP market.
+
+## How did the shift from profit to purpose change your work?
 
 When my career shifted from proﬁt business ,selling liquor to non-pr oﬁt, everything about the way I work ed changed.
 
-### The Traditional Playbook
+### What is the traditional playbook?
 
 In the proﬁt world, whene ver we opened a new territ ory, the ﬁrst stop was alwa ys the chief or the local oﬃcer . So when I crossed over to social enterprise work, I carried that same playbook. I still went to the village chief, the monk, the authority . The results? Slow . I thought the way in was alwa ys through formal leaders.
 
-### Uncovering True Influence
+### How do you uncover true influence?
 
 But in every village I traveled to, I began to notice something different. Ther e was alwa ys one farmer who stood out, not because of a title, not because of education, but because of years of hands-on experience. These were the real inﬂuencers. In city terms, they’d be called subject-matter exper ts. In the village, they were trusted guides.
 
-## Ko Pway: A Case Study in Last-Mile Impact
+## Who is Ko Pway and what is his impact on last-mile distribution?
 
 Take Ko Pwa y, a betel grower I met in a cluster of 16 villages near Pyay, in the middle of Myanmar .
 
-### The Unsung Hero's Expertise
+### What makes Ko Pway an unsung hero?
 
 He never went to school, but he knows his crop like a scientist . He knew which soil is the best, how to rescue poor soil, when to feed nutrients, how to handle the weather . He doesn ’t speak in theor y. He speaks in instinct, gut feel, and decades of practice. And the whole village track listens to him if they are growing betel.
 
-### The Power of Authentic Trust
+### How does authentic trust impact the community?
 
 He doesn ’t char ge a dime for advice, doesn ’t take commission from input companies. He plants for free, shar es knowledge for free. Farmers give back with a meal or a longyi, but that’s not why he does it. He’s been doing this for more than ten years, quietly , without pause. And here’s the thing: people like Ko Pwa y are the ones truly gener ating positiv e impact, without announcing it on global stages or writing repor ts.
 
-## The Secret Sauce for Last-Mile Success
+## What is the secret sauce for last-mile success?
 
 They are the secr et sauce. They are the reason many last-mile businesses and projects actually survive. Over the years, I’ve learned there are several tricks to succeeding in the last mile. And this one is the most impor tant and the most ignor ed.
 
-### Overcoming Common Mistakes in Social Enterprise
+### What are common mistakes in social enterprise?
 
 Every time I consult with social enterprises, I tell them: start with these informal exper ts, not the village chief. But for some reason, NGOs and social businesses love to start with the chief, and value their input more. This can lead to a big mistak e. The chief can give legitimacy .
 
-### The Path to Adoption, Trust, and Lasting Impact
+### How do you achieve adoption, trust, and lasting impact?
 
 But if you want adoption, trust, and lasting impact , you need someone like ko Pwa y. The reason is, he will tell you straight: whether your idea works or not, whether your organization is deliv ering impact or just full of talk. And if he belie ves in you, the whole village will too.
 

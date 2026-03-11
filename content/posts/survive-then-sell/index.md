@@ -4,19 +4,19 @@ date: 2026-05-02
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # Survive Then Sell
+
+## Field Report: Executive Summary
+*   Sales consultant Myanmar observes high demand for non-essential goods.
+*   Last mile distribution reveals surprising needs in conflict zones.
+*   Social enterprise sales growth depends on understanding dignity needs.
 
 ## Personal Reflection: Products in a Conflict Economy
 
 The hardest markets often teach the clearest lessons. Last week in northern Myanmar, I was reminded that even in conflict zones, people don’t only fight to survive, they fight to live with dignity. What surprised me most? The most in-demand business right now isn’t food, fuel, or medicine.
 
-### The Surprise of Essential Needs
+### What is the Surprise of Essential Needs?
 
 It’s hair and makeup. Because no matter the hardship, people still want to look good for weddings, ceremonies, and community life. This made me rethink what “essential products” truly mean in last-mile and conflict economies.
 
@@ -24,7 +24,7 @@ It’s hair and makeup. Because no matter the hardship, people still want to loo
 
 Last week, I was coaching a sales team from the last mile, deep inside a conflict zone in northern Myanmar. What struck me wasn’t just the hardship, it was the resilience of farmers and internally displaced people. To give you a picture: in that area, three pieces of tomato cost $3.50.
 
-### The Reality of Scarcity and Resilience
+### What is the Reality of Scarcity and Resilience?
 
 Not a kilo. Literally, three pieces. And yet, in the middle of this struggle, people keep finding ways to live, not just survive. Here is one example.
 
@@ -36,7 +36,7 @@ In one of my free webinar sessions, audiences from across Myanmar from the north
 
 “Why hair and makeup? Is that really necessary right now?, when your community is under constant conflict?” Their answers stopped me. And it made perfect sense.
 
-### The Human Desire for Dignity
+### What is the Human Desire for Dignity?
 
 “We Still Want to Feel Human” They said: “Even in the hardest times, people still have weddings. They still go to the monastery for donation events. They still want to look good, to feel human, to have dignity.”
 

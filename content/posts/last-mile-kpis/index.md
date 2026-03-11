@@ -4,19 +4,18 @@ date: 2026-04-14
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # Last Mile KPIs
 
 ## B2B Sales Performance: Metrics and Strategy from Myanmar
 
-Last-Mile/Crisis Metrics, Revenue Operations (RevOps) Metrics, and Qualitative/Coaching Metrics.
+## Field Report: Executive Summary
 
-### Last-Mile & Crisis Economy KPIs
+*   Focuses on B2B sales performance metrics in Myanmar, including last-mile distribution challenges.
+*   Emphasizes crisis management KPIs and revenue operations metrics for social enterprise sales growth.
+*   Details a point-based system for actionable KPI measurement in Bottom of the Pyramid (BOP) markets.
+
+### What are Last-Mile & Crisis Economy KPIs?
 
 These metrics prioritize system survival, trust, and behavioral shifts in volatile environments like rural Myanmar.
 
@@ -33,7 +32,7 @@ These metrics prioritize system survival, trust, and behavioral shifts in volati
 *   **Customer Survival Rate:** Indicates if customers are choosing to "fight" and restart after losses.
     *   Formula: (Number of Repeat Customers post-Crisis / Total Customer Base pre-Crisis) x 100.
 
-### Revenue Operations (RevOps) KPIs
+### What are Revenue Operations (RevOps) KPIs?
 
 These track the efficiency of a unified marketing, sales, and service department.
 
@@ -52,7 +51,7 @@ These track the efficiency of a unified marketing, sales, and service department
 *   **Lead Quality Score:** Qualitative assessment turned into a metric to ensure alignment.
     *   Formula: A weighted average of lead attributes (e.g., budget, authority, need, timeline).
 
-### Qualitative & Strategic Management KPIs
+### What are Qualitative & Strategic Management KPIs?
 
 These measure leadership, integrity, and organizational health.
 
@@ -67,7 +66,7 @@ These measure leadership, integrity, and organizational health.
 *   **The Triangle Framework Score:** Assessing Mindset, Skillset, and Action during field coaching.
     *   Formula: Subjective scoring (1–10) by a manager across three pillars: Mindset (Resilience/Belief), Skillset (Competence), and Action (Effort).
 
-### Effectively Measuring Through the Point System
+### How to Effectively Measure Through the Point System?
 
 To make these KPIs actionable for off-grid teams, Sai Han Linn utilizes a Point-Based Matrix that converts various behaviors into a single performance score:
 

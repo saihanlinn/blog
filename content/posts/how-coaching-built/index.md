@@ -4,19 +4,20 @@ date: 2026-04-05
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # How Coaching Built
 
-## The Journey: From Control to Coaching
+## Field Report: Executive Summary
+
+*   Sales consultant Myanmar shifted from control-based to coaching-based leadership.
+*   Proximity Designs achieved social enterprise sales growth through trust-based relationships.
+*   Last mile distribution success hinges on investing in people, not just B2B sales strategy.
+
+## What Was the Journey: From Control to Coaching?
 
 Edition: How Coaching Built an Unbreakable Off-Grid Sales Culture Before I understood coaching, I thought culture change meant control.
 
-### My Early Sales Leadership: Control and Numbers
+### What Was My Early Sales Leadership: Control and Numbers?
 
 Tough targets. Clear KPIs. Results at all costs.
 
@@ -38,7 +39,7 @@ No culture that could carry on.
 
 Just numbers, and silence. No one remembered me.
 
-### The Turning Point: Discovering Coaching at Proximity Designs
+### What Was the Turning Point: Discovering Coaching at Proximity Designs?
 
 Years later, I joined Proximity Designs, a social enterprise working in rural Myanmar.
 
@@ -50,7 +51,7 @@ They didn’t rush. They listened.
 
 They didn’t control. They trusted me, one of the best organization and culture that I have ever joined.
 
-### Embracing Empathy: A New Leadership Style
+### How Did I Embrace Empathy: A New Leadership Style?
 
 I didn’t realize it at the time, but something inside me began to soften; not in weakness, but in clarity. I started leading differently.
 
@@ -72,7 +73,7 @@ They became leaders.
 
 They owned their townships.
 
-### The Power of Trust: Building a Self-Sustaining Sales Culture
+### What Was the Power of Trust: Building a Self-Sustaining Sales Culture?
 
 And they built deep, resilient trust with rural customers. Slowly, the sales culture began to shift.
 
@@ -90,13 +91,16 @@ They stayed loyal.
 
 They referred others.
 
-They told us: "Your team treats us like people, not buyers." By the time I left Proximity Designs, the culture we had built wasn’t just strong; it was self-sustaining. I didn’t leave behind a manual.
+> **Field Data Evidence:**
+> They told us: "Your team treats us like people, not buyers."
+
+By the time I left Proximity Designs, the culture we had built wasn’t just strong; it was self-sustaining. I didn’t leave behind a manual.
 
 I left behind a generation of leaders, many better than I was.
 
 And I left with both respect, and love.
 
-### Echoes of Coaching: Lasting Impact and Current Endeavors
+### What Are the Echoes of Coaching: Lasting Impact and Current Endeavors?
 
 Today, I run Primer International, supporting last-mile distribution businesses and social enterprises across Southeast Asia.
 
@@ -110,7 +114,7 @@ I still measure myself against what we built at Proximity: The loyalty, the trus
 
 Not instant change, but lasting change.
 
-## Key Learnings on Unbreakable Sales Teams
+## What Are the Key Learnings on Unbreakable Sales Teams?
 
 What I Learned You can’t build an unbreakable sales team through pressure alone.
 

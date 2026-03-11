@@ -12,13 +12,16 @@ draft: false
 
 # How Social Enterprise can Unlock
 
+## Field Report: Executive Summary
+- To successfully execute **BOP market entry** in Myanmar, you must physically resize offerings to match daily purchasing power rather than forcing standard industrial sizes.
+- Your **last mile distribution** strategy hinges entirely on simplified, paperless processes where a single field rep handles the complete customer journey.
+- Extreme ground-level trust turns satisfied village buyers into better closers than an expensive **sales consultant Myanmar**, drastically lowering acquisition costs.
+
 ## How Social Enterprises Can Unlock Sales Success in Low-Income Markets
 
 Introduction Social enterprises are businesses that have a social mission at their core. They often serve low-income communities, and as a result, they face unique challenges in sales. These challenges include limited financial resources, trust and credibility, accessibility and distribution, cultural sensitivity, and education and awareness. Despite these challenges, there are a number of practical strategies and tactics that social enterprises can use to overcome them and achieve sales success in low-income markets. These strategies include:
 
-## Strategies for Sales Success
-
-### Understanding the customer
+### How do you sell to Bottom of the Pyramid (BOP) markets in Myanmar?
 
 I personally work with several social enterprises that serve low-income communities. One of the organizations that I was in has a deep understanding of the needs, aspirations, and pain points of the target audience. They invest a lot in market research, surveys, and focus groups with key customers. While the rest of the seasonal organization have difficulties in overcoming Covid Lockdown and Political instability challenges, they just don't survive, they thrive.
 
@@ -30,9 +33,11 @@ They also focus on providing value and solutions to their customers, rather than
 
 Trust is essential in any sales relationship, but it is especially important in low-income markets. Low-income customers may have been exploited or disappointed by businesses in the past. As a result, they may be more cautious and skeptical when approached by sales representatives. Social enterprises need to build trust and credibility with their customers by being transparent, honest, and reliable. I came across one of the sales meetings where an existing customer sold the product to another customer in under 1 min which our sales expert took months to close the first sales. When a customer in low-income market trust and happy with our product “ they become better than our top sales person “.
 
-### Offering affordable pricing and flexible payment options
+### What is the best last mile distribution strategy for social enterprises?
 
-Low-income customers often have limited financial resources. As a result, it is important to offer affordable pricing and flexible payment options. This will make your products and services more accessible to these customers. Another way is modifying the product/ services that they offer to make it accessible. One of the companies that I work with created a 1 KG fertilizer bag instead of a 40KG standard bag to sell to the low income market.
+Low-income customers often have limited financial resources. As a result, it is important to offer affordable pricing and flexible payment options. This will make your products and services more accessible to these customers. Another way is modifying the product/ services that they offer to make it accessible. 
+
+> **Market Data Evidence:** One of the companies that I work with created a 1 KG fertilizer bag instead of a 40KG standard bag to sell to the low income market.
 
 ### Simplifying the sales process
 
@@ -60,5 +65,4 @@ A: Trust is crucial because low-income customers may have experienced exploitati
 
 **Q: Can you provide an example of how a social enterprise might modify its product for low-income markets?**
 A: Yes, one example given is a company that created a 1 KG fertilizer bag instead of the standard 40KG bag to make the product more accessible and affordable for the low-income market.
-
-{{< figure src="x3.jpeg" title="How Social Enterprise can Unlock" >}}
+\n\n{{< figure src="x3.jpeg" title="How Social Enterprise can Unlock" >}}

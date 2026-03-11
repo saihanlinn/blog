@@ -4,13 +4,13 @@ date: 2026-06-01
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # Top Rejection in Last Mile Sales
+
+## Field Report: Executive Summary
+*   Top sales rejection in Myanmar and rural Asia is the need for product proof.
+*   Small, discounted test plots are a viable last mile distribution strategy.
+*   Demonstrations are key to social enterprise sales growth in BOP markets.
 
 Here is the most common rejection I’ve faced in villages across Myanmar, Thailand, and almost all of Asia when introducing a new product in a new territory. 
 
@@ -18,7 +18,7 @@ Here is the most common rejection I’ve faced in villages across Myanmar, Thail
 * It does not matter how big your organization is. 
 * The rejection almost always sounds the same: “If someone uses your product and we see proof that it works in our season and in our region, then we might buy it.”
 
-## Villagers Need Proof
+## Why Do Villagers Need Proof?
 
 I saw this when I traveled with one of the oldest agricultural input companies in Myanmar. They already had market proven products and a loyal customer base. But even for them, whenever they launched a new product, they still had to set up pilot plots, pilot farms, or demonstration plots. It was the same in Thailand, Vietnam, and Cambodia. I also saw it with new players like crop insurance startups. 
 
@@ -26,15 +26,15 @@ Everywhere we went, the top rejection was always: “If there is proof, we will 
 
 For established companies with resources, this is manageable. But for a new company with a very limited budget, it becomes a real challenge. A demonstration plot can be risky, and one village tract can have 10 to 60 villages. Doing multiple demo plots at that scale is definitely not cost efficient. 
 
-So what do you do if we are new and cannot afford large demo plots? If we do nothing, you cannot sell. If we do too much, we burn our budget.
+So what do you do if we are new and cannot afford large demo plots? If we do nothing, you cannot sell. If we do too much, you burn our budget.
 
-## Here is One Way I Solved This Problem
+## How Can This Problem Be Solved?
 
 I trained sales reps to negotiate small plots. If a farmer had one acre, we would encourage them to buy enough for only 0.1 acre as a test and offer a strong discount. Not free, but discounted, so there was some commitment. We encouraged them to make this visible in a group setting, or if it was one on one, we targeted outspoken farmers, early adopters, or natural influencers in the village. 
 
 What usually happened is that those same farmers ended up buying for their full acre once they saw the results. Other farmers followed. This simple tactic solved the problem for many of my client companies. In fact, it became a standard operating procedure for launching new products in new territories.
 
-## Final Reflection
+## What is the Final Reflection?
 
 * In last mile markets, selling is not about convincing with words. It is about showing proof. One small successful demonstration can shift an entire village.
 * That is why every organization, whether new or established, better involved demonstrations as the heart of their sales strategy.

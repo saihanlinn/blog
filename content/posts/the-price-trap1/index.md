@@ -4,23 +4,17 @@ date: 2026-05-29
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # The Price Trap
 
-## The Price Trap: A Lead Orchestrator's Account of Market Share Collapse
-
-Have you ever seen a business lose 70% of its market share by cutting prices? Most companies believe price cuts are the fastest way to win in a competitive market. But when you’re working with last-mile distribution, full of partners, dealers, and complex relationships, it’s not always that simple. This week’s Dust, Deal, and Field Notes tells the story of how a 10% price reduction, meant to protect market share, ended up costing an FMCG brand far more than they ever imagined. It’s a reminder that in these markets, pricing isn’t just about numbers, it’s about trust, respect, and long-term partnerships.
-
-Hashtags for LinkedIn: #LastMileDistribution #SalesLeadership #MarketStrategy #FMCG #EmergingMarkets #SalesCulture #CustomerTrust #BusinessLessons #PricingStrategy #FieldSales #PartnerManagement #MyanmarBusiness
+## Field Report: Executive Summary
+*   FMCG brand in Myanmar lost 70% market share after a 10% price cut.
+*   Price reduction damaged trust with last mile distribution partners (wholesalers, retailers).
+*   Ignoring channel partner impact led to rapid market share collapse in the BOP market.
 
 ## The Price Trap: How One FMCG Lost 70% Market Share Right in Front of Me by Reducing Price by 10%
 
-### Building a Trusted Brand in Myanmar
+### How Do You Build a Trusted Brand in Myanmar?
 
 It was one of Myanmar’s leading FMCG brands. We had built it from scratch, township by township, dealer by dealer. We did everything right: flashy ads, big promotions, TVCs, and billboards.
 
@@ -30,13 +24,13 @@ Through early morning deliveries, long road trips, and personal relationships wi
 
 It was a brand people trusted.
 
-### The Competitor's Arrival and Panic Pricing
+### What Happens When a Competitor Arrives and You Panic Price?
 
 And the entire distribution channel worked like clockwork. Then one day, a new competitor entered the scene. Their instant coffee tasted okay. Their packaging looked sharp.
 
 And most importantly, they were a bit cheaper than us. Someone in senior management panicked. “Let’s drop our price by 10%. Just match them. We can’t afford to lose ground. It’s better to beat our competitors out of the market before they take hold.” It was just a 10% cut on paper.
 
-### The Warning Ignored
+### Why Was the Warning Ignored?
 
 But I knew what it really meant. I warned them, loud and clear. “Don’t do this. This isn’t just a pricing decision. It’s a message to our whole channel.” We were dealing with township-level partners, our wholesalers and retailers.
 
@@ -46,7 +40,7 @@ They were influencers. “Our wholesalers just restocked at the higher price. Th
 
 And in last-mile markets, you don’t just lose margin, you lose trust. But the decision was already made.
 
-## The Immediate Backlash
+## What Was the Immediate Backlash?
 
 The Backlash Was Immediate. It wasn’t quiet. My phone started ringing the next day after the official price announcement. Wholesalers were furious.
 
@@ -64,9 +58,11 @@ They were surviving.
 
 They were reminding us, respect your partners, or lose them.
 
-## Watching the Market Share Collapse
+## What Does a Market Share Collapse Look Like?
 
 Watching the Fall. Within months, we lost 70% of our market share.
+
+> **Market Data Evidence:** Within months, the company lost 70% of its market share.
 
 Seventy. Percent. Not because the competition outplayed us.
 
@@ -82,7 +78,7 @@ It was a brand unraveling in real time. And I still remember the pain.
 
 Because I fought against it, and lost.
 
-## Key Lessons from the Field
+## What Key Lessons Can We Learn from the Field?
 
 What I Learned. Price isn’t just price.
 

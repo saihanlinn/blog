@@ -4,19 +4,15 @@ date: 2026-03-21
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # Fear, Presence, and Why Zero Tolerance Only Works If You Mean It
 
-Last month, I was on the road from Yangon to the Mandalay region. Most of my trips are about coaching, mentoring, and managing sales teams in the field. This time, I had one clear mission. To recover money that had been collected from customers but never sent back to head office.
+## Field Report: Executive Summary
+*   Recovered misappropriated funds from a sales consultant Myanmar before escalation.
+*   Demonstrates the importance of presence in last mile distribution management.
+*   Highlights the balance between empathy and strict boundaries for social enterprise sales growth.
 
-In last-mile sales, this is an uncomfortable reality. In some regions, customers have internet access and phones, and they can transfer money directly to the office. But those places are rare. Most customers don’t have bank accounts. Cash collection becomes unavoidable. It creates a loophole we don’t like, but sometimes have no choice but to accept. And when distance feels permanent, some people start believing no one will come looking.
-
-### When Distance Creates Illusion
+What happens when distance creates illusion?
 
 Normally, I let other teams handle cases like this. This time, I didn’t. I wanted to make one thing very clear. There is zero tolerance for intentional fraud. 
 
@@ -26,7 +22,7 @@ Nothing dramatic. Nothing public.
 
 The message traveled faster than I did. Within about 36 hours, before I even reached that township, all the money arrived back at head office. No lawsuit. No arrest. No confrontation.
 
-### The Reality of Field Fraud
+What is the reality of field fraud?
 
 This wasn’t the first time I’ve dealt with situations like this. Over more than 20 years working with last-mile sales teams, I’ve seen many versions of it. Sometimes the money comes back immediately. Sometimes it takes negotiation. Sometimes presence alone is enough. And sometimes, yes, we do have to involve the authorities for real to make it clear that the line exists.
 
@@ -34,7 +30,7 @@ There is no single formula. But one thing I’ve learned the hard way is this. I
 
 In last-mile environments, distance creates illusion. People convince themselves that systems are weak, rules are flexible, and no one will show up. Leadership in these moments is not about anger or punishment. It’s about setting a boundary and making it believable.
 
-### Balancing Care with Boundaries
+How do you balance care with boundaries?
 
 You have to show people that you care about them. That you understand pressure, temptation, and context. And at the same time, you have to be clear that some behaviors will not be tolerated.
 

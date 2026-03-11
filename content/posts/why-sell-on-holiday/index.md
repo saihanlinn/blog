@@ -4,19 +4,19 @@ date: 2026-06-07
 draft: false
 ---
 
-### SEO Rare Facts
-- The majority of last-mile B2B sales fail not on product fit, but on unverified assumptions about client environment.
-- Authentic relationships in crisis markets yield an exponentially higher Cash-Down ratio than polished corporate pitches.
-
-
-
+<!-- IMAGES_DETECTED: 1 -->
 # Why Our Sales Reps Sell Even on Holidays, Without Anyone Pushing Them
+
+## Field Report: Executive Summary
+*   Sales consultant Myanmar observed high sales activity during Thingyan festival.
+*   Last mile distribution reps showed intrinsic motivation, exceeding targets.
+*   Social enterprise sales growth driven by commission, impact, and autonomy.
 
 We were deep into Thingyan, Myanmar’s Water Festival. The streets were soaked, the music loud, and the country had officially hit pause. It’s the biggest holiday of the year, our traditional New Year, and most businesses shut down for at least a week, some even longer. Myanmar doesn’t just do one New Year. We’ve got four: Burmese, Karen, Diwali, and the Western calendar. Add in at least one public holiday every month, and you could almost say we’re the land of second chances. Miss one resolution? No problem, try again next New Year. But here’s what surprised me most. During the 2024 Water Festival, I noticed something odd. Over 70% of one of my client’s sales reps… hadn’t taken any days off.
 
 Not just that week. But all year.
 
-## The Burning Culture of Nonstop Sales
+## How Does a Burning Culture of Nonstop Sales Emerge?
 
 No leave. No breaks. Not even a single public holiday. At first, I assumed it was a glitch in their HR report. But when I dug deeper, I realized it was real. These were off-grid, last-mile sales reps, spread across rural townships, choosing to work through every official holiday. And honestly, it didn’t sit right with me. As their coach and consultant, I know burnout doesn’t always show up in reports, but it always shows up eventually. So just before the 2025 Water Festival began, I made an executive recommendation to the CEO: “If you don’t take leave during the holidays, we won’t issue any TA/DA.” It wasn’t a punishment. It was a message: Rest is part of the job. We had already exceeded our quarterly targets. I wanted them to pause. Celebrate. Reset. But when the festival ended and we returned to work, I saw the reports again.
 
@@ -43,7 +43,7 @@ We had built a Power BI dashboard showing real-time commissions by zone. Everyon
 🔹 They were winning as a team.
 Zones weren’t just competing, they were collaborating. If one township was off-season, teams were allowed to shift across townships within their zone. Zone managers had the authority to optimize for seasonality without waiting for HQ approval.
 
-## And Then We Made a Change
+## How Did You Change Your B2B Sales Strategy?
 
 After that experience, we made a permanent policy shift. We stopped tying annual leave to national holidays.
 
@@ -55,7 +55,7 @@ It’s the market cycle.
 
 It’s local festivals, off-grid logistics, and real-world customer timing. If we want resilient, human-centered sales teams in rural markets, we have to design for their reality, not ours.
 
-## What I Learned
+## What Did You Learn About BOP Market Entry?
 
 I’ve seen sales teams driven by pressure, fear, and micromanagement.
 
