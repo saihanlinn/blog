@@ -1,64 +1,72 @@
 ---
-title: "Survive Then Sell"
-date: 2026-05-02
+title: "Survive & Then Sell: What Products Matter in a Conflict Economy"
+date: 2026-03-11
 draft: false
 ---
 
-<!-- IMAGES_DETECTED: 1 -->
-# Survive Then Sell
+# Survive & Then Sell: What Products Matter in a Conflict Economy
 
-## Field Report: Executive Summary
-*   Sales consultant Myanmar observes high demand for non-essential goods.
-*   Last mile distribution reveals surprising needs in conflict zones.
-*   Social enterprise sales growth depends on understanding dignity needs.
+## Field Intelligence: Executive Summary
 
-## Personal Reflection: Products in a Conflict Economy
+*   The most in-demand business in a conflict zone in northern Myanmar is hair and makeup.
+*   People buy products that keep their dignity alive, not just those that ensure survival.
+*   Focus on what helps people feel alive to tap into the real market in last mile distribution.
 
-The hardest markets often teach the clearest lessons. Last week in northern Myanmar, I was reminded that even in conflict zones, people don’t only fight to survive, they fight to live with dignity. What surprised me most? The most in-demand business right now isn’t food, fuel, or medicine.
+## Living, Not Just Surviving: A Lesson from a Conflict Economy
 
-### What is the Surprise of Essential Needs?
+Last week, I was coaching a sales team from the last mile, deep inside a conflict zone in northern Myanmar.
 
-It’s hair and makeup. Because no matter the hardship, people still want to look good for weddings, ceremonies, and community life. This made me rethink what “essential products” truly mean in last-mile and conflict economies.
+What struck me wasn’t just the hardship ,it was the resilience of farmers and internally displaced people.
 
-## Beyond Survival: A Lesson from Myanmar's Conflict Zone
+> **Field Data Evidence:** in that area, three pieces of tomato cost $3.50.
 
-Last week, I was coaching a sales team from the last mile, deep inside a conflict zone in northern Myanmar. What struck me wasn’t just the hardship, it was the resilience of farmers and internally displaced people. To give you a picture: in that area, three pieces of tomato cost $3.50.
+And yet, in the middle of this struggle, people keep finding ways to live, not just survive. Here is one example.
 
-### What is the Reality of Scarcity and Resilience?
+## What is the Strangest Business Idea Ever?
 
-Not a kilo. Literally, three pieces. And yet, in the middle of this struggle, people keep finding ways to live, not just survive. Here is one example.
+In one of my free webinar sessions, audiences from across Myanmar from the northern hills to the southern delta joined to share survival strategies.
 
-## Unconventional Entrepreneurship: Hair and Makeup as a Core Need
+One farmer shared an idea I never expected:
 
-In one of my free webinar sessions, audiences from across Myanmar from the northern hills to the southern delta joined to share survival strategies. One farmer shared an idea I never expected:
+“The most in-demand business in our area right now is… hair and makeup.”
 
-“The most in-demand business in our area right now is… hair and makeup.” At first, I thought they were joking. So I asked:
+At first, I thought they were joking.
 
-“Why hair and makeup? Is that really necessary right now?, when your community is under constant conflict?” Their answers stopped me. And it made perfect sense.
+## Why Hair and Makeup?
 
-### What is the Human Desire for Dignity?
+So I asked:
 
-“We Still Want to Feel Human” They said: “Even in the hardest times, people still have weddings. They still go to the monastery for donation events. They still want to look good, to feel human, to have dignity.”
+“Why hair and makeup? Is that really necessary right now?, when your community is under constant conflict?”
 
-That response brought me to tears. Because resilience isn’t just about survival. It’s about insisting on living and even thriving in the harshest conditions.
+Their answers stopped me. And it made perfect sense.
 
-## Key Takeaways for Impact Businesses
+## Why Do We Still Want to Feel Human?
 
-For anyone building businesses in last-mile or conflict economies, here’s the truth: 👉 People don’t just buy products that keep them alive. 👉 They also buy products that keep their dignity alive. If you want to make a real impact, don’t just ask:
+They said:
 
-“What do people need to survive?” Also Ask:
+“Even in the hardest times, people still have weddings.
+They still go to the monastery for donation events.
+They still want to look good, to feel human, to have dignity.”
 
-“What helps them feel alive?” That’s where resilience is born. And that’s where the real market is.
+That response brought me to tears.
 
-### Frequently Asked Questions
+Because resilience isn’t just about survival.
+It’s about insisting on living and even thriving in the harshest conditions.
 
-**Q: What surprising product category is in high demand in conflict zones like northern Myanmar?**
-A: Hair and makeup are surprisingly in high demand in conflict zones, even more so than essential goods like food, fuel, or medicine, according to a Lead Orchestrator in Myanmar.
+## What is the Lesson for Impact Businesses?
 
-**Q: Why do people in conflict economies prioritize products like hair and makeup?**
-A: People prioritize hair and makeup because they want to look good for weddings, ceremonies, and community life, to feel human, and to maintain their dignity, even amidst severe hardship and constant conflict.
+For anyone building businesses in last-mile or conflict economies, here’s the truth:
 
-**Q: What is the crucial lesson for impact businesses operating in last-mile or conflict economies?**
-A: Impact businesses should understand that people buy products not just to survive, but also to maintain their dignity and feel alive. The key is to ask, "What helps them feel alive?" rather than solely "What do people need to survive?"
+👉 People don’t just buy products that keep them alive.
+👉 They also buy products that keep their dignity alive.
 
-{{< figure src="47.jpeg" title="Survive Then Sell" >}}
+If you want to make a real impact, don’t just ask:
+
+“What do people need to survive?”
+
+Also Ask:
+
+“What helps them feel alive?”
+
+That’s where resilience is born. And that’s where the real market is.
+{{< figure src="47.jpeg" title="Survive & Then Sell: What Products Matter in a Conflict Economy" >}}

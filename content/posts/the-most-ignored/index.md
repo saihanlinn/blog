@@ -1,62 +1,69 @@
 ---
-title: "The Most Ignored"
-date: 2026-05-11
+title: "The Untapped Power of Informal Experts"
+date: 2026-03-11
 draft: false
 ---
 
-<!-- IMAGES_DETECTED: 1 -->
-# The Most Ignored
+# The Untapped Power of Informal Experts
 
-## Field Report: Executive Summary
-*   Sales consultant Myanmar shifted focus from profit to purpose, changing sales strategy.
-*   Last mile distribution success hinges on identifying and leveraging informal experts.
-*   Social enterprise sales growth depends on trust, adoption, and lasting impact in the BOP market.
+## Field Intelligence: Executive Summary
 
-## How did the shift from profit to purpose change your work?
+*   Focus on informal experts, not just formal leaders, for effective last mile distribution.
+*   Leverage the trust and practical knowledge of individuals like Ko Pway in Myanmar sales strategies.
+*   Prioritize adoption and lasting impact over mere legitimacy in BOP strategy implementation.
 
-When my career shifted from proﬁt business ,selling liquor to non-pr oﬁt, everything about the way I work ed changed.
+## How Can You Achieve Lasting Impact in Villages?
 
-### What is the traditional playbook?
+When my career shifted from profit business ,selling liquor to non-profit, everything
+about the way I worked changed. In the profit world, whenever we opened a new
+territory, the first stop was always the chief or the local officer.
+So when I crossed over to social enterprise work, I carried that same playbook. I still
+went to the village chief, the monk, the authority. The results? Slow. I thought the way in
+was always through formal leaders.
 
-In the proﬁt world, whene ver we opened a new territ ory, the ﬁrst stop was alwa ys the chief or the local oﬃcer . So when I crossed over to social enterprise work, I carried that same playbook. I still went to the village chief, the monk, the authority . The results? Slow . I thought the way in was alwa ys through formal leaders.
+## What Did I Begin to Notice in Every Village?
 
-### How do you uncover true influence?
+But in every village I traveled to, I began to notice something different. There was always
+one farmer who stood out, not because of a title, not because of education, but because
+of years of hands-on experience.
 
-But in every village I traveled to, I began to notice something different. Ther e was alwa ys one farmer who stood out, not because of a title, not because of education, but because of years of hands-on experience. These were the real inﬂuencers. In city terms, they’d be called subject-matter exper ts. In the village, they were trusted guides.
+These were the real influencers, In city terms, they’d be called subject-matter experts. In
+the village, they were trusted guides.
 
-## Who is Ko Pway and what is his impact on last-mile distribution?
+## Who is Ko Pway and What Can We Learn From Him?
 
-Take Ko Pwa y, a betel grower I met in a cluster of 16 villages near Pyay, in the middle of Myanmar .
+Take Ko Pway, a betel grower I met in a cluster of
+16 villages near Pyay, in the middle of Myanmar. He never went to school, but he knows
+his crop like a scientist . He knew which soil is the best, how to rescue poor soil, when
+to feed nutrients, how to handle the weather.
 
-### What makes Ko Pway an unsung hero?
+He doesn’t speak in theory. He speaks in instinct, gut feel, and decades of practice. And
+the whole village track listens to him if they are growing betel. He doesn’t charge a dime
+for advice, doesn’t take commission from input companies. He plants for free, shares
+knowledge for free. Farmers give back with a meal or a longyi, but that’s not why he
+does it.
 
-He never went to school, but he knows his crop like a scientist . He knew which soil is the best, how to rescue poor soil, when to feed nutrients, how to handle the weather . He doesn ’t speak in theor y. He speaks in instinct, gut feel, and decades of practice. And the whole village track listens to him if they are growing betel.
+> **Field Data Evidence:** Ko Pway has been sharing his knowledge for more than ten years.
 
-### How does authentic trust impact the community?
+He’s been doing this for more than ten years, quietly, without pause. And here’s the
+thing: people like Ko Pway are the ones truly generating positive impact ,without
+announcing it on global stages or writing reports.
 
-He doesn ’t char ge a dime for advice, doesn ’t take commission from input companies. He plants for free, shar es knowledge for free. Farmers give back with a meal or a longyi, but that’s not why he does it. He’s been doing this for more than ten years, quietly , without pause. And here’s the thing: people like Ko Pwa y are the ones truly gener ating positiv e impact, without announcing it on global stages or writing repor ts.
+They are the secret sauce. They are the reason many last-mile businesses and projects
+actually survive. Over the years, I’ve learned there are several tricks to succeeding in the
+last mile. And this one is the most important and the most ignored.
 
-## What is the secret sauce for last-mile success?
+## Why Should You Start With Informal Experts?
 
-They are the secr et sauce. They are the reason many last-mile businesses and projects actually survive. Over the years, I’ve learned there are several tricks to succeeding in the last mile. And this one is the most impor tant and the most ignor ed.
+Every time I consult with social enterprises, I tell them: start with these informal experts,
+not the village chief. But for some reason, NGOs and social businesses love to start with
+the chief, and value their input more. This can lead to a big mistake. The chief can give
+legitimacy. But if you want adoption, trust, and lasting impact , you need someone like
+ko Pway.
 
-### What are common mistakes in social enterprise?
+## What is the Key to Adoption and Trust?
 
-Every time I consult with social enterprises, I tell them: start with these informal exper ts, not the village chief. But for some reason, NGOs and social businesses love to start with the chief, and value their input more. This can lead to a big mistak e. The chief can give legitimacy .
-
-### How do you achieve adoption, trust, and lasting impact?
-
-But if you want adoption, trust, and lasting impact , you need someone like ko Pwa y. The reason is, he will tell you straight: whether your idea works or not, whether your organization is deliv ering impact or just full of talk. And if he belie ves in you, the whole village will too.
-
-### Frequently Asked Questions
-
-**Q1: Who is Ko Pway?**
-A1: Ko Pway is a betel grower encountered in a cluster of 16 villages near Pyay, Myanmar, who never went to school but possesses extensive practical knowledge about his crop and is a trusted guide in his community.
-
-**Q2: What is considered the "secret sauce" for the survival of last-mile businesses and projects?**
-A2: People like Ko Pway, who are informal experts and real influencers due to their hands-on experience and trusted advice, are the "secret sauce" for generating positive impact and ensuring the survival of last-mile businesses and projects.
-
-**Q3: Why is it advised to start with informal experts rather than village chiefs for last-mile initiatives?**
-A3: While a chief can provide legitimacy, informal experts like Ko Pway offer adoption, trust, and lasting impact because they provide honest feedback on whether an idea works and, if they believe in it, the entire village will follow.
-
-{{< figure src="31.jpeg" title="The Most Ignored" >}}
+The reason is, he will tell you straight: whether your idea works or not, whether your
+organization is delivering impact or just full of talk. And if he believes in you, the whole
+village will too."
+{{< figure src="31.jpeg" title="The Untapped Power of Informal Experts" >}}

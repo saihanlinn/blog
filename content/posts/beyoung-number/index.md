@@ -1,58 +1,60 @@
 ---
-title: "Beyoung Number"
-date: 2026-03-09
+title: "Beyond Numbers: When Sales Became a Form of Service"
+date: 2026-03-11
 draft: false
 ---
 
-<!-- IMAGES_DETECTED: 1 -->
 # Beyond Numbers: When Sales Became a Form of Service
 
-## Field Report: Executive Summary
-*   A sales consultant in Myanmar found that service trumps traditional B2B sales strategy.
-*   Last mile distribution success hinges on building trust in BOP market entry.
-*   Social enterprise sales growth is directly linked to providing value beyond the product.
+## Field Intelligence: Executive Summary
 
-In last-mile sales, sometimes the best-performing managers are not the ones who sell the most, but the ones who serve the most. This week’s story is about a regional manager whose simple acts of service changed how I see sales altogether.
+*   The best-performing managers in last mile distribution may be those who serve the most, not necessarily those who sell the most.
+*   A regional manager in Myanmar demonstrated the power of service in building trust and driving sales.
+*   A BOP strategy focused on building relationships can be more effective than solely focusing on sales targets.
 
-### Where Was This Story Set?
+## Beyond Numbers: When Sales Became a Form of Service
+
 I was in Kume, a populated village in Myittha Township, Kyaukse District, Mandalay Region, Myanmar. It is a place where farmers grow chili, beans, and pulses. Many also cultivate bananas and papaya. Villages are densely packed here, close enough for word to travel fast, especially in a place near Myanmar’s second-largest city.
 
 I was visiting with one of my regional managers who oversees all of Upper Myanmar sales operations. Even though his region was performing well, we had a habit, no matter how strong the sales were, to regularly coach both sales reps and managers.
 
-### What Was the Manager Doing on the Phone?
+### What was the manager doing that raised questions?
+
 That morning, while we were eating breakfast, my regional manager was on the phone with a customer. The customer had just placed an order for our product but also asked for a specific type of chili seed that was difficult to find in the area. My manager promised to help him source it before the planting season started.
 
 A few minutes later, another call came in. This time, it was a customer looking for papaya seeds. Then another, asking for advice on which engine model to swap for his irrigation pump.
 
-I sat there, watching him take call after call, and quietly asked myself: “Should he really be doing all this? We pay him to manage sales, not to source seeds for farmers.” It did not feel like the best use of company time.
+I sat there, watching him take call after call, and quietly asked myself:
 
-### How Did the Manager Approach Sales?
-I have known this manager for a long time. He is one of those people who genuinely wants to help others, not just his team but also the farmers who buy from us. His customers deeply respect him, and they listen when he speaks.
+“Should he really be doing all this? We pay him to manage sales, not to source seeds for farmers.”It did not feel like the best use of company time.
 
-Still, I planned to tell him during our evening reflection, “Yes, help customers, but not too much. You are spending too much time on things outside our work.”
+I have known this manager for a long time. He is one of those people who genuinely wants to help others, not just his team but also the farmers who buy from us. His customers deeply respect him, and they listen when he speaks. Still, I planned to tell him during our evening reflection,
 
-That was my plan until I saw what happened in the field that day.
+“Yes, help customers, but not too much. You are spending too much time on things outside our work.” That was my plan until I saw what happened in the field that day.
 
-Every house we visited, every old customer we met, they greeted him with respect and warmth. Even though they knew we came to sell, it did not feel like selling. There was trust in the air. The customers did not see him as a salesman; they saw him as part of their lives. And that made me pause.
+### How did the manager's approach impact customer relationships?
 
-### Why Did Trust Matter More Than Tactics?
-Because of that trust, even when we approached new customers in the same village, the conversation felt easier. They were open, honest, and willing to listen. Some told us straight when they could not buy with true, specific, and honest reasons. Most of them did buy, because the manager had already done the selling before we arrived.
+Every house we visited, every old customer we met, they greeted him with respect and warmth. Even though they knew we came to sell, it did not feel like selling. There was trust in the air. The customers did not see him as a salesman; they saw him as part of their lives.
 
-By evening, my perspective had changed. During reflection, I still told him to balance things: “Help customers, but make sure the benefit outweighs the cost.” But I ended with something I had not planned to say: “Whatever you are doing here, it is working. I have nothing to change for this region.”
+And that made me pause.
 
-That night, I wrote in my notebook: “Sometimes sales is not about the numbers. It is about the service that earns trust.” Because in the last mile, relationships grow faster than any crop.
+Because of that trust, even when we approached new customers in the same village, the conversation felt easier. They were open, honest, and willing to listen. Some told us straight when they could not buy with true , specific and honest reason. Most of them did buy, because the manager had already done the selling before we arrived.
 
----
+### What was the final verdict on the manager's approach?
 
-### Frequently Asked Questions
+By evening, my perspective had changed. During reflection, I still told him to balance things.
 
-**Why is customer service more important than pitching in last-mile sales?**
-In close-knit rural communities, trust is the primary currency. A salesperson who acts as a genuine resource—by helping source seeds or advising on equipment—builds deep operational respect. This service eliminates friction, meaning the actual "selling" is already accomplished before the product is even pitched.
+“Help customers, but make sure the benefit outweighs the cost.”
 
-**How does a sales manager build a high-performing region in Myanmar?**
-Performance in regions like Upper Myanmar is driven not by corporate tactics, but by integration into the local community. Managers who prioritize solving their customers' adjacent farming problems (like crop selection or irrigation) earn a level of loyalty that transforms standard transactions into long-term partnerships.
+But I ended with something I had not planned to say:
 
-**When should a sales objective shift from numbers to relationships?**
-While balancing time is important for efficiency, prioritizing numbers over relationships often leads to stalled growth in rural markets. An effective final-mile strategy focuses intensely on service first; when relationships are solidly established, sales volume naturally accelerates through local referrals and sustained trust.
+“Whatever you are doing here, it is working. I have nothing to change for this region.”
 
-{{< figure src="x8.jpeg" title="Beyoung Number" >}}
+That night, I wrote in my notebook:
+
+“Sometimes sales is not about the numbers. It is about the service that earns trust.”
+
+Because in the last mile, relationships grow faster than any crop.
+
+> **Field Data Evidence:** Kume is a populated village in Myittha Township, Kyaukse District, Mandalay Region, Myanmar. Farmers grow chili, beans, and pulses, as well as bananas and papaya.
+{{< figure src="x8.jpeg" title="Beyond Numbers: When Sales Became a Form of Service" >}}

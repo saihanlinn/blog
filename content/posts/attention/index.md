@@ -1,46 +1,74 @@
 ---
-title: "Attention"
-date: 2026-03-06
+title: "Attention is the New Currency: The Journey of Marketing Over Time"
+date: 2026-03-11
 draft: false
 ---
 
-<!-- IMAGES_DETECTED: 1 -->
-# Attention is the New Currency in Last-Mile Sales
+# Attention is the New Currency: The Journey of Marketing Over Time
 
-## Field Report: Executive Summary
-*   Sales consultant Myanmar must prioritize attention over revenue in crisis economies.
-*   Last mile distribution success hinges on capturing customer focus within 30 seconds.
-*   Social enterprise sales growth depends on addressing immediate needs, not technical specs.
+## Field Intelligence: Executive Summary
 
-What is the Myth of Technical Specifications?
+*   In the 1950s, companies like Procter & Gamble invested heavily in TV advertising, spending $30 million in 1954.
+*   By 2022, influencer marketing grew to over $15 billion.
+*   In 2020, 91% of B2B and 86% of B2C marketers prioritized creating valuable, engaging content.
 
-Headquarters loves to train sales reps on product features. They build polished slide decks and expect field teams to recite battery life or load capacity to a farmer who is worried about tomorrow's security checkpoint. 
+## How Has Marketing Changed Over Time?
 
-This approach fails at the bottom of the pyramid. A rural customer is not buying your specifications. They are buying a solution to a problem that is keeping them awake right now. If your pitch does not immediately address their pain point, their attention shifts away, and the sale is dead.
+“Just a quick reality check—some companies are still relying on outdated marketing concepts. It’s time to adapt!”
 
-How do you Hold the Room in the Field?
+Marketing has always been about capturing attention, but how we achieve that has changed drastically over the decades. From the days of mass media to the current attention economy, marketing strategies have evolved with technology and culture. Let’s explore this fascinating journey.
 
-In places like Pin Laung, you do not get a second chance to make a first impression. We learned this the hard way. A sales rep who speaks continuously without reading the customer's face is just making noise. 
+## What Was Marketing Like in the Mass Marketing Era?
 
-You earn attention by asking the right questions, not by giving the right answers. We trained our teams to stop talking and start observing. When a dealer talks about their cash flow issues, that is where you anchor your product's value. You pivot the conversation away from technical jargon and towards immediate financial relief.
+In the 1950s, television was king. Companies like Procter & Gamble poured resources into TV advertising.
 
-What is the Value of a Captured Audience?
+> **Field Data Evidence:** spending a staggering $30 million on ads in 1954—a monumental figure for its time.
 
-Once you have their attention, trust naturally follows. It is the prerequisite for the Cash-Down Ratio. A customer who is actively listening to you is fifty percent more likely to pay upfront than one who is simply waiting for you to leave.
+Before TV, radio and newspapers were the primary ways to reach audiences.
 
-Your field teams must realize that their most valuable asset is not the inventory in their truck. It is the ability to command and sustain the focus of their client. In the last mile, attention is the new currency. Everything else is just logistics.
+> **Field Data Evidence:** In fact, a 1940 study showed radio reached 82% of U.S. households, proving its unmatched influence.
 
----
+The big idea here: Marketing was all about casting a wide net, with one-size-fits-all messages designed for mass appeal.
 
-### Frequently Asked Questions
+## What is the Key to Brand Loyalty?
 
-**Why is attention more important than revenue in a crisis economy?**
-In a highly volatile market, gross revenue is a lagging indicator. Attention is the leading indicator of trust. If a field representative cannot capture a customer's focus within the first thirty seconds by addressing their immediate survival needs, no transaction will occur.
+By the 1980s, the game shifted. Businesses began focusing on creating loyal customers who would stick with their brand.
 
-**How do corporate sales strategies fail in last-mile markets?**
-Headquarters often train teams to rely on technical specifications and polished presentation decks. In the last mile, rural customers are solving for survival, not specifications. Pitching corporate features instead of localized, immediate solutions causes the customer's attention to instantly break.
+> **Field Data Evidence:** Research from the Strategic Planning Institute in 1983 revealed that companies with high brand loyalty enjoyed greater market share and profitability.
 
-**What is the best way to capture customer attention in emerging markets?**
-Stop pitching and start observing. The most effective field tactic is asking targeted questions about the customer's cash flow or operational pain points. Anchoring the product's value directly to their immediate financial relief commands sustained attention.
+Television still played a crucial role, with long-term ad campaigns proving effective at building trust and recognition, as noted by A.C. Nielsen studies.
 
-{{< figure src="6.png" title="Attention" >}}
+The key takeaway: Brands began nurturing emotional connections with consumers, making loyalty the foundation of success.
+
+## How Did Influencers Change the Game?
+
+Fast forward to 2016, and social media has transformed the marketing landscape. Influencers—everyday people with dedicated followings—became trusted voices for brands.
+
+> **Field Data Evidence:** A study found that 70% of teenage YouTube subscribers trusted influencer recommendations more than traditional celebrity endorsements.
+
+This shift fueled the rapid rise of influencer marketing.
+
+> **Field Data Evidence:** which grew from $1.7 billion in 2016 to over $15 billion by 2022.
+
+What changed? Consumers sought authenticity and relatability, driving brands to collaborate with influencers who felt "real."
+
+## How Does the Attention Economy Work?
+
+Now, we live in the attention economy, where every second counts.
+
+> **Field Data Evidence:** A 2015 Microsoft study showed the average attention span dropped from 12 seconds in 2000 to just 8 seconds—shorter than a goldfish’s!
+
+> **Field Data Evidence:** Meanwhile, the average person sees 4,000 to 10,000 ads daily.
+
+To cut through the noise, brands are leaning into content marketing.
+
+> **Field Data Evidence:** In 2020, 91% of B2B and 86% of B2C marketers prioritized creating valuable, engaging content.
+
+In this era, we also see a surge in attention-seeking content across platforms like TikTok and Instagram. From outlandish stunts to jaw-dropping creativity, people are willing to do almost anything to grab attention. Customers are drawn to these moments of shock, humor, or authenticity, proving that in today’s landscape, attention truly is the ultimate currency.
+
+The lesson here: You need to be sharp, relevant, and impactful to hold your audience’s fleeting attention.
+
+## What’s Next for Marketing?
+
+The evolution of marketing is far from over. With advancements in AI, immersive experiences, and hyper-personalization, the next frontier will be about creating deeper connections while respecting people’s time and attention.
+{{< figure src="6.png" title="Attention is the New Currency: The Journey of Marketing Over Time" >}}
