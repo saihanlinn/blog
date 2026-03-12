@@ -2,9 +2,7 @@
 title: "A Cocoon in Meiktila: From Fear to Flight"
 date: 2026-03-12
 draft: false
----
-
-# A Cocoon in Meiktila: From Fear to Flight
+--- 
 
 ## Field Intelligence: Executive Summary
 

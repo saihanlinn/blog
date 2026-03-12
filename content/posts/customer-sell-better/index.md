@@ -2,9 +2,7 @@
 title: "A Window, A Coffee, A Market Waiting"
 date: 2026-03-12
 draft: false
----
-
-# A Window, A Coffee, A Market Waiting
+--- 
 
 ## Field Intelligence: Executive Summary
 

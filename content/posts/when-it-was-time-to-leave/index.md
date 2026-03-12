@@ -2,9 +2,7 @@
 title: "Leaving to Grow: A Leader's Journey in Myanmar"
 date: 2026-03-12
 draft: false
----
-
-# Leaving to Grow: A Leader's Journey in Myanmar
+--- 
 
 ## Field Intelligence: Executive Summary
 

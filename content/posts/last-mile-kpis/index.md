@@ -2,9 +2,7 @@
 title: "Measuring Performance in Off-Grid Sales Teams"
 date: 2026-03-12
 draft: false
----
-
-# Measuring Performance in Off-Grid Sales Teams
+--- 
 
 ## Field Intelligence: Executive Summary
 

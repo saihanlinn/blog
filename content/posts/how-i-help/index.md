@@ -2,9 +2,7 @@
 title: "Turning Sales Teams into Cash-Generating Machines in Myanmar"
 date: 2026-03-12
 draft: false
----
-
-# Turning Sales Teams into Cash-Generating Machines in Myanmar
+--- 
 
 ## Field Intelligence: Executive Summary
 

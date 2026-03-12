@@ -2,9 +2,7 @@
 title: "Top Rejection in Last-Mile Sales"
 date: 2026-03-12
 draft: false
----
-
-# Top Rejection in Last-Mile Sales
+--- 
 
 ## Field Intelligence: Executive Summary
 

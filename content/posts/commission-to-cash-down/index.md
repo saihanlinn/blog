@@ -2,9 +2,7 @@
 title: "98% Consignment Sales to 90% Cash Down: The Hardest Culture Shift of My Sales Career"
 date: 2026-03-12
 draft: false
----
-
-# 98% Consignment Sales to 90% Cash Down: The Hardest Culture Shift of My Sales Career
+--- 
 
 ## Field Intelligence: Executive Summary
 

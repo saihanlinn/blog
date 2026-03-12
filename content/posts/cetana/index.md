@@ -2,9 +2,7 @@
 title: "The Limitless Reach of Cetana in Last-Mile Sales Management"
 date: 2026-03-12
 draft: false
----
-
-# The Limitless Reach of Cetana in Last-Mile Sales Management
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "Beyond the Quota: How to Measure What Matters in a Crisis Economy"
 date: 2026-03-12
 draft: false
----
-
-# Beyond the Quota: How to Measure What Matters in a Crisis Economy
+--- 
 
 ## Field Intelligence: Executive Summary
 

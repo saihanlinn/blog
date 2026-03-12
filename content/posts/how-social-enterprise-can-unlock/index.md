@@ -2,9 +2,7 @@
 title: "How Social Enterprises Can Unlock Sales Success in Low-Income Markets"
 date: 2026-03-12
 draft: false
----
-
-# How Social Enterprises Can Unlock Sales Success in Low-Income Markets
+--- 
 
 ## Field Intelligence: Executive Summary
 

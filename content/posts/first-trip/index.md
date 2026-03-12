@@ -2,9 +2,7 @@
 title: "From Liquor Sales to Last-Mile Impact: A Journey of Purpose"
 date: 2026-03-12
 draft: false
----
-
-# From Liquor Sales to Last-Mile Impact: A Journey of Purpose
+--- 
 
 ## Field Intelligence: Executive Summary
 

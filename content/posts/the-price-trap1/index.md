@@ -2,9 +2,7 @@
 title: "The Price Trap: How a 10% Price Cut Led to a 70% Market Share Loss"
 date: 2026-03-12
 draft: false
----
-
-# The Price Trap: How a 10% Price Cut Led to a 70% Market Share Loss
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "Why Silos Are Killing Your Revenue"
 date: 2026-03-12
 draft: false
----
-
-# Why Silos Are Killing Your Revenue
+--- 
 
 ## Field Intelligence: Executive Summary
 

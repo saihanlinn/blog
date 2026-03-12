@@ -2,9 +2,7 @@
 title: "The Power of Trust in Last Mile Distribution: A Myanmar Case Study"
 date: 2026-03-12
 draft: false
----
-
-# The Power of Trust in Last Mile Distribution: A Myanmar Case Study
+--- 
 
 ## Field Intelligence: Executive Summary
 

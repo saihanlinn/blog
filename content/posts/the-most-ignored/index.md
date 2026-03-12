@@ -2,9 +2,7 @@
 title: "The Untapped Power of Informal Experts in Last-Mile Distribution"
 date: 2026-03-12
 draft: false
----
-
-# The Untapped Power of Informal Experts in Last-Mile Distribution
+--- 
 
 ## Field Intelligence: Executive Summary
 

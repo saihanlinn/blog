@@ -2,9 +2,7 @@
 title: "The Hidden Advantage of Not Being the Expert"
 date: 2026-03-12
 draft: false
----
-
-# The Hidden Advantage of Not Being the Expert
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "Living, Not Just Surviving: A Lesson from a Conflict Economy"
 date: 2026-03-12
 draft: false
----
-
-# Living, Not Just Surviving: A Lesson from a Conflict Economy
+--- 
 
 ## Field Intelligence: Executive Summary
 

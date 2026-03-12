@@ -2,9 +2,7 @@
 title: "When the Factory Turns to Ash"
 date: 2026-03-12
 draft: false
----
-
-# When the Factory Turns to Ash
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "How AI Is Changing B2B Sales: The Right Sales Methodology for 2025’s Smart Buyers"
 date: 2026-03-12
 draft: false
----
-
-# How AI Is Changing B2B Sales: The Right Sales Methodology for 2025’s Smart Buyers
+--- 
 
 ## Field Intelligence: Executive Summary
 

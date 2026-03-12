@@ -2,9 +2,7 @@
 title: "The Hardest Termination Decision of My Career"
 date: 2026-03-12
 draft: false
----
-
-# The Hardest Termination Decision of My Career
+--- 
 
 ## Field Intelligence: Executive Summary
 

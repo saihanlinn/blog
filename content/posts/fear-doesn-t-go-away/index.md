@@ -2,9 +2,7 @@
 title: "Fear Doesn't Go Away: Skill Just Shortens Recovery"
 date: 2026-03-12
 draft: false
----
-
-# Fear Doesn't Go Away: Skill Just Shortens Recovery
+--- 
 
 ## Field Intelligence: Executive Summary
 

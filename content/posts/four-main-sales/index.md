@@ -2,9 +2,7 @@
 title: "Compassionate Selling: Understanding Sales Objections"
 date: 2026-03-12
 draft: false
----
-
-# Compassionate Selling: Understanding Sales Objections
+--- 
 
 ## Field Intelligence: Executive Summary
 

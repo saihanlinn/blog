@@ -2,9 +2,7 @@
 title: "Survive & Then Sell: What Products Matter in a Conflict Economy"
 date: 2026-03-12
 draft: false
----
-
-# Survive & Then Sell: What Products Matter in a Conflict Economy
+--- 
 
 ## Field Intelligence: Executive Summary
 

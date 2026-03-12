@@ -2,9 +2,7 @@
 title: "Beyond Survival: Building Resilient Businesses in Myanmar's Conflict Economy"
 date: 2026-03-12
 draft: false
----
-
-# Beyond Survival: Building Resilient Businesses in Myanmar's Conflict Economy
+--- 
 
 ## Field Intelligence: Executive Summary
 

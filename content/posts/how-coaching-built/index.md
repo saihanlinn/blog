@@ -2,9 +2,7 @@
 title: "Dust, Deal, and Field Notes: How Coaching Built an Unbreakable Off-Grid Sales Culture"
 date: 2026-03-12
 draft: false
----
-
-# Dust, Deal, and Field Notes: How Coaching Built an Unbreakable Off-Grid Sales Culture
+--- 
 
 ## Field Intelligence: Executive Summary
 

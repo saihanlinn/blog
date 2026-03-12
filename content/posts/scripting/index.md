@@ -2,9 +2,7 @@
 title: "The Seed of Sales: Why Scripting Still Matters"
 date: 2026-03-12
 draft: false
----
-
-# The Seed of Sales: Why Scripting Still Matters
+--- 
 
 ## Field Intelligence: Executive Summary
 

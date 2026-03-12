@@ -2,9 +2,7 @@
 title: "The Dealer Economy: Trust Runs Deeper Than Contracts"
 date: 2026-03-12
 draft: false
----
-
-# The Dealer Economy: Trust Runs Deeper Than Contracts
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "Attention is the New Currency: The Journey of Marketing Over Time"
 date: 2026-03-12
 draft: false
----
-
-# Attention is the New Currency: The Journey of Marketing Over Time
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "The Invisible Triangle: From School Uniform to Sales Leadership"
 date: 2026-03-12
 draft: false
----
-
-# The Invisible Triangle: From School Uniform to Sales Leadership
+--- 
 
 ## Field Intelligence: Executive Summary
 

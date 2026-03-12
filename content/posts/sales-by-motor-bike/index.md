@@ -2,9 +2,7 @@
 title: "Sales by Motorbike: What the Last Mile Teaches You About Leadership"
 date: 2026-03-12
 draft: false
----
-
-# Sales by Motorbike: What the Last Mile Teaches You About Leadership
+--- 
 
 ## Field Intelligence: Executive Summary
 

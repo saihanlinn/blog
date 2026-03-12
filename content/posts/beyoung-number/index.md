@@ -2,9 +2,7 @@
 title: "Beyond Numbers: When Sales Became a Form of Service"
 date: 2026-03-12
 draft: false
----
-
-# Beyond Numbers: When Sales Became a Form of Service
+--- 
 
 ## Field Intelligence: Executive Summary
 

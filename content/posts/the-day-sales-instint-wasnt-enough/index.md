@@ -2,9 +2,7 @@
 title: "The Day Sales Instinct Wasn't Enough"
 date: 2026-03-12
 draft: false
----
-
-# The Day Sales Instinct Wasn't Enough
+--- 
 
 ## Field Intelligence: Executive Summary
 

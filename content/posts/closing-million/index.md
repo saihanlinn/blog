@@ -2,9 +2,7 @@
 title: "Closing a Million-Dollar B2B Deal"
 date: 2026-03-12
 draft: false
----
-
-# Closing a Million-Dollar B2B Deal
+--- 
 
 ## Field Intelligence: Executive Summary
 

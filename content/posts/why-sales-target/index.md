@@ -2,9 +2,7 @@
 title: "Selling with Purpose: A Myanmar Case Study"
 date: 2026-03-12
 draft: false
----
-
-# Selling with Purpose: A Myanmar Case Study
+--- 
 
 ## Field Intelligence: Executive Summary
 

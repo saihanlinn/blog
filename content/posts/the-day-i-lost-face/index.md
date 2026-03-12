@@ -2,9 +2,7 @@
 title: "The Day I Lost Face—and Felt Most Proud"
 date: 2026-03-12
 draft: false
----
-
-# The Day I Lost Face—and Felt Most Proud
+--- 
 
 ## Field Intelligence: Executive Summary
 

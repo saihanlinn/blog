@@ -2,9 +2,7 @@
 title: "Fear, Presence, and Why Zero Tolerance Only Works If You Mean It"
 date: 2026-03-12
 draft: false
----
-
-# Fear, Presence, and Why Zero Tolerance Only Works If You Mean It
+--- 
 
 ## Field Intelligence: Executive Summary
 

@@ -2,9 +2,7 @@
 title: "Embracing Seth Godin's Purple Cow Theory: How Café Salween & Tesla Cybertruck Turned Uniqueness into Virality"
 date: 2026-03-12
 draft: false
----
-
-# Embracing Seth Godin's Purple Cow Theory: How Café Salween & Tesla Cybertruck Turned Uniqueness into Virality
+--- 
 
 ## Field Intelligence: Executive Summary
 
