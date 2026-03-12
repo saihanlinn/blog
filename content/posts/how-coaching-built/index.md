@@ -1,6 +1,6 @@
 ---
 title: "Dust, Deal, and Field Notes: How Coaching Built an Unbreakable Off-Grid Sales Culture"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -9,8 +9,10 @@ draft: false
 ## Field Intelligence: Executive Summary
 
 *   The author transitioned from a high-pressure FMCG environment in Myanmar to a social enterprise, Proximity Designs, adopting a coaching-based leadership style.
-*   This shift resulted in a resilient sales culture built on trust and deep customer relationships, outperforming cheaper alternatives.
-*   The author now supports last mile distribution businesses and social enterprises across Southeast Asia, still measuring success against the culture built at Proximity Designs.
+*   This shift involved prioritizing trust, customer relationships, and empowering the sales team, leading to a self-sustaining sales culture.
+*   The author now supports last-mile distribution businesses across Southeast Asia, still measuring success against the culture built at Proximity Designs.
+
+## How Did a Shift in Leadership Style Impact Sales Culture?
 
 Before I understood coaching, I thought culture change meant control.
 Tough targets. Clear KPIs. Results at all costs.
@@ -27,6 +29,9 @@ But when I left, I was left alone.
 There was no leadership bench behind me.
 No culture that could carry on.
 Just numbers, and silence. No one remembered me.
+
+## What Sparked a Change in Perspective?
+
 Years later, I joined Proximity Designs, a social enterprise working in rural Myanmar.
 It wasn’t just a career shift—it was a reset.
 Something inside me had already begun to shift.
@@ -39,6 +44,9 @@ They didn’t control. They trusted me, one of the best organization and culture
 joined.
 I didn’t realize it at the time, but something inside me began to soften.
 Not in weakness , but in clarity.
+
+## How Did Coaching Transform the Approach to Leadership?
+
 I started leading differently.
 I listened more than I spoke.
 I started to measure both inputs and efforts, not just outputs.
@@ -54,6 +62,9 @@ Instead of hiding problems, they solved them together.
 They became leaders.
 They owned their townships.
 And they built deep, resilient trust with rural customers.
+
+## What Was the Impact on the Sales Culture and Customer Relationships?
+
 Slowly, the sales culture began to shift.
 And once it did—it stuck.
 We weren’t trying to outprice the cheaper Chinese alternatives anymore.
@@ -64,12 +75,17 @@ They listened. They advised me. They walked the fields with their customers.
 And customers responded.
 They stayed loyal.
 They referred others.
-They told us: "Your team treats us like people, not buyers."
+
+> **Field Data Evidence:** They told us: "Your team treats us like people, not buyers."
+
 By the time I left Proximity Designs, the culture we had built wasn’t just strong—it was
 self-sustaining.
 I didn’t leave behind a manual.
 I left behind a generation of leaders—many better than I was.
 And I left with both respect—and love.
+
+## How Does This Experience Influence Current Work?
+
 Today, I run Primer International, supporting last-mile distribution businesses and social
 enterprises across Southeast Asia.
 I coach their teams.
@@ -87,7 +103,7 @@ That was the power of coaching.
 Not instant change.
 But lasting change.
 
-## What key lesson was learned?
+## What Key Lessons Were Learned?
 
 You can’t build an unbreakable sales team through pressure alone.
 You build it by investing in people.
@@ -98,4 +114,15 @@ One led with control.
 The other with coaching
 “ This is the only right thing to do if you are leading an offgrid sales team and growing an
 unbreakable culture.”
+
+### Frequently Asked Questions
+
+**Q: How can you build an unbreakable sales team?**
+A: By investing in people, giving them space to grow, and showing them you believe in them.
+
+**Q: What was the key difference between the author's leadership styles?**
+A: The shift from leading with control to leading with coaching.
+
+**Q: What is the lasting impact of building a strong sales culture?**
+A: It creates loyalty, trust, and a self-sustaining team that continues to thrive.
 {{< figure src="38.jpeg" title="Dust, Deal, and Field Notes: How Coaching Built an Unbreakable Off-Grid Sales Culture" >}}

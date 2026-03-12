@@ -1,6 +1,6 @@
 ---
 title: "The Invisible Triangle: From School Uniform to Sales Leadership"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,17 +8,19 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   The author's leadership style was shaped by a school uniform lesson, emphasizing mindset, skillset, and action.
-*   The triangle framework is used for coaching rural sales teams and promoting future leaders in emerging markets.
-*   Prioritizing mindset during sales hiring is crucial, as demonstrated by a top-performing manager in Myanmar.
+*   The author adapted a triangle framework of Mindset, Skillset, and Action for coaching rural sales teams.
+*   Prioritizing mindset became the number one trait when hiring sales managers.
+*   The triangle framework is applicable in business, life, and leadership development.
 
-## How did a school uniform shape leadership style?
+## How Did a School Uniform Shape Leadership Style?
 
 I never expected that a lesson from my school uniform would come back to shape my leadership style.
 
 Most of my early career was all about targets, volume, and chasing sales. From the liquor industry to construction, success was measured in how much you pushed, sold, and delivered fast.
 
 But when I made the switch to the impact world supporting last-mile agri-businesses and social enterprises I had to unlearn a lot of what made me successful in the past.
+
+## What Was the Turning Point?
 
 One moment stood out.
 
@@ -35,13 +37,15 @@ That triangle had been sitting on my shoulder all those years and I had never tr
 
 That was my turning point. I realized this wasn’t just a training tool. It was a lens for leadership. A way to truly understand where someone’s growth needed to begin.
 
-## What is the coaching framework?
+## How Does the Triangle Framework Work?
 
 Since then, I’ve adapted the triangle into my coaching framework:
 
 ● Mindset (Attitude): the foundation. Without belief, resilience, and openness to grow, no skill sticks.
 ● Skillset (Competence): what we train and practice—selling techniques, product knowledge, customer engagement.
 ● Action (Effort): showing up, trying again, following through when no one is watching.
+
+## What Patterns Emerged in the Field?
 
 I started applying this triangle in real sales territories off-grid towns, rural villages, and high-pressure markets.
 
@@ -54,7 +58,7 @@ Coaching them was about building competence, not motivation.
 
 And then there were the rare ones who had all three balanced and aligned. Those were the reps who grew fastest, got promoted, and became coaches themselves.
 
-## Why prioritize mindset when hiring?
+## Why Prioritize Mindset in Hiring?
 
 Later, when I stepped into hiring managers myself, I started prioritizing mindset as the number one trait. One story still sticks with me.
 
@@ -72,9 +76,7 @@ There were many polished answers. But one candidate said something I’ll never 
 
 We hired him that day. Years later, he’s still with us. Still the top-performing manager. Still inspiring others. Not because of the tools he had but because of how he thinks.
 
-> **Field Data Evidence:** The candidate who said "If you’re fighting with a short sword, take a step forward. Don’t waste time wishing for a longer one" was hired and remains the top-performing manager years later.
-
-## How does this triangle apply to life?
+## How Does This Relate to Buddhist Teachings?
 
 And that brings me full circle because the triangle I once saw as just a coaching tool has now become something much deeper.
 
@@ -91,4 +93,17 @@ What I once saw on my school uniform, what I later used as a sales coaching fram
 Mindset. Skillset. Action.
 
 Whether in business or in life, this triangle keeps showing up. Not just a model, but a way of living.
+
+> **Field Data Evidence:** The triangle is simple: Mindset, Skillset, Action. We use it to train, coach, and even promote future leaders.
+
+### Frequently Asked Questions
+
+**Q: What are the three components of the triangle framework?**
+A: Mindset, Skillset, and Action.
+
+**Q: Why is mindset considered the foundation?**
+A: Without belief, resilience, and openness to grow, no skill sticks.
+
+**Q: What was the key factor in hiring the top-performing sales manager?**
+A: His mindset and how he thinks, not the tools he had.
 {{< figure src="35.png" title="The Invisible Triangle: From School Uniform to Sales Leadership" >}}

@@ -1,6 +1,6 @@
 ---
 title: "Survive & Then Sell: What Products Matter in a Conflict Economy"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -9,8 +9,8 @@ draft: false
 ## Field Intelligence: Executive Summary
 
 *   The most in-demand business in a conflict zone in northern Myanmar is hair and makeup.
-*   People buy products that keep their dignity alive, not just those that ensure survival.
-*   Focus on what helps people feel alive to tap into the real market in last mile distribution.
+*   People in conflict economies buy products that keep their dignity alive, not just those that ensure survival.
+*   The key to building impact businesses in last-mile economies is understanding what helps people feel alive.
 
 ## Living, Not Just Surviving: A Lesson from a Conflict Economy
 
@@ -40,7 +40,7 @@ So I asked:
 
 Their answers stopped me. And it made perfect sense.
 
-## Why Do We Still Want to Feel Human?
+## Why Do People Still Want to Feel Human?
 
 They said:
 
@@ -69,4 +69,15 @@ Also Ask:
 “What helps them feel alive?”
 
 That’s where resilience is born. And that’s where the real market is.
+
+### Frequently Asked Questions
+
+**Q: What is the most in-demand business in some conflict zones?**
+A: Hair and makeup.
+
+**Q: What do people buy in last-mile economies besides necessities?**
+A: They buy products that keep their dignity alive.
+
+**Q: What question should businesses ask to make a real impact in conflict economies?**
+A: "What helps them feel alive?"
 {{< figure src="47.jpeg" title="Survive & Then Sell: What Products Matter in a Conflict Economy" >}}

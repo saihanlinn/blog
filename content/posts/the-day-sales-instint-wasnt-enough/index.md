@@ -1,6 +1,6 @@
 ---
 title: "The Day Sales Instinct Wasn't Enough"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,11 +8,12 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   Observed a team lead in rural Myanmar to assess leadership potential beyond individual sales performance.
-*   A sales team misstepped by aggressively pushing water tanks on a chicken farm that already had one.
-*   The key lesson: Sales instinct must be rooted in curiosity and verified with customer needs.
+*   Observed a promising team lead in rural Myanmar to assess leadership potential.
+*   A sales team pushed water tanks onto a chicken farm that already had one installed.
+*   Leadership requires humility to slow down and see, not just rely on sales instinct.
 
-The Morning That Felt Different
+## The Morning That Felt Different
+
 It was the kind of morning I’ve come to know well in rural Myanmar—quiet, golden, and already
 heavy with heat.
 The overnight bus from Yangon had dropped me in Magway at 4 a.m. The streets were still
@@ -32,7 +33,8 @@ Could he take that raw energy and channel it through others?
 Leadership, I’ve learned, isn’t a louder version of sales. It’s something quieter, deeper. And I
 wanted to see if Spiky was ready.
 
-## How Does Spiky Perform in Action?
+## How Did Spiky Perform in Action?
+
 By 8:30 a.m., Spiky pulled up on his bike, wearing his usual grin and dusty boots. I hopped on
 the back, and we headed out toward a village in Minbu Township. The ride took about half an
 hour—long enough for me to observe him silently. How he greeted people at fuel stops, how he
@@ -48,7 +50,8 @@ contracts.
 I could’ve ended the day right there and marked it a success.
 But that’s not how you know someone’s ready for leadership.
 
-## What Happens When Instinct Leads to a Misstep?
+## What Misstep Revealed a Key Lesson?
+
 On the way back, we passed a line of small chicken farms. Spiky slowed, then braked. He
 looked over his shoulder and shouted, “Let’s go—they need water tanks! Push the onion tanks!”
 Just like that, the team swerved off the road and rode into the farm, high on momentum. They
@@ -64,9 +67,10 @@ And there it was—a brand-new, massive 2,000-gallon water tank, already install
 glistening.
 No wonder the farmer wasn’t biting.
 
-> **Field Data Evidence:** The farmer already had a "brand-new, massive 2,000-gallon water tank, already installed."
+> **Field Data Evidence:** The farmer already had a 2,000-gallon water tank installed.
 
-## How Do You Turn the Moment Around?
+## How Can You Turn a Moment Around?
+
 By the time I returned, the conversation was looping in circles. Spiky had joined in, trying to
 close. The farmer’s tone had cooled to near-frost. The bamboo chopping had become its own
 language.
@@ -90,9 +94,10 @@ After 10 min of what we could have achieved together with our solution,We shook 
 That was our 11th contract of the day—but more than that, it was a turning point. For Spiky. For
 his team. And for me, as a coach.
 
-> **Field Data Evidence:** The team closed their "11th contract of the day" after pivoting to address the farmer's actual needs.
+> **Field Data Evidence:** The team closed 11 contracts that day.
 
 ## What Lessons Were Learned Over Tea?
+
 That evening, we found a teashop on the roadside, the kind with red plastic stools and stale
 Samoza. We ordered tea, and I let Spiky run the debrief.
 “What went well today?” I asked.
@@ -108,14 +113,18 @@ He nodded. Quietly.
 “Instinct is valuable,” I said. “But without curiosity and learning, it becomes guesswork. And
 leadership—real leadership—requires humility to slow down and see.”
 
-## What Happened Two Months Later?
+## How Did Spiky's Team React Two Months Later?
+
 When we ran 360-degree feedback as part of our promotion cycle, Spiky’s name rose to the top.
 His team mentioned that day. That farm. That tank they didn’t need to sell.
 They said they’d started asking better questions. Listening more. Recommending less, until they
 understood more.
 Spiky became Zone Manager soon after, overseeing eight townships across Magway.
 
-## What Did I Learn That Day?
+> **Field Data Evidence:** Spiky became Zone Manager, overseeing eight townships across Magway.
+
+## What Was Learned That Day?
+
 The field will always teach you what no report ever can.
 Sales instinct is powerful—but it must be rooted in curiosity.
 And leadership isn’t about being the best at closing deals. It’s about being willing to unlearn, in
@@ -124,11 +133,14 @@ That day, Spiky took a step forward—not because he got everything right, but b
 stayed open to learning, even in the middle of the field.
 That’s when I knew—he was ready.
 
-## Final Notes: What I Learned That Day
-*   The field reveals what reports never can.
-*   Gut instinct is useful—but it must be grounded in curiosity.
-*   Leadership isn’t about being right—it’s about being open.
-*   You earn trust by unlearning in front of your team, not just teaching them.
-*   And sometimes, a farmer chopping bamboo is giving you all the signals you need—if
-    you’re willing to listen
+### Frequently Asked Questions
+
+**Q: What is more important, sales instinct or curiosity?**
+A: Sales instinct is powerful, but it must be rooted in curiosity.
+
+**Q: What is a key element of leadership?**
+A: Leadership requires humility to slow down and see.
+
+**Q: What did Spiky's team say about the water tank incident?**
+A: They said they’d started asking better questions, listening more, and recommending less until they understood more.
 {{< figure src="47.jpeg" title="The Day Sales Instinct Wasn't Enough" >}}

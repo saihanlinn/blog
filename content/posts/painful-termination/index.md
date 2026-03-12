@@ -1,6 +1,6 @@
 ---
 title: "The Hardest Termination Decision of My Career"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,11 +8,11 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   A sales rep in Myanmar was terminated for charging customers an extra installation fee, violating company policy.
-*   The manager instructed the sales rep to pay the installer extra, believing it would improve installer motivation.
-*   Despite the termination, the sales rep remained loyal, and his son was hired to replace him.
+*   A sales rep in Myanmar charged customers extra for installation, violating company policy.
+*   The manager instructed the rep to pay the installer extra to keep them motivated.
+*   Despite the rep's long-term loyalty and lack of bad intentions, he was terminated due to a strict zero-tolerance policy.
 
-## How do you handle rule-bending in sales?
+## How Did a Voucher Raise a Red Flag?
 
 I’ve lived in sales and business development long enough to know one thing: If you
 bend the rules around money, everything starts to collapse. That was my mindset for
@@ -22,26 +22,29 @@ I was in the office, just passing time between meetings. My assistant usually ha
 voucher checks, but that day I randomly pulled a stack to review myself. I still don’t
 know why I did it.
 One voucher caught my eye.
-
-## What triggered the investigation?
-
 Selling price: 25,000 MMK Plus a handwritten note: Installation 5,000 MMK (paid to
 installer)
 That immediately raised a red flag.
+
+## What Was the Pricing Policy?
+
 Because in our system, the 25,000 MMK already includes everything:
 ● Product: 20,000
 ● Installation: 5,000
 It’s printed clearly on the back of every voucher. Installation is complimentary.
 Customers should never pay extra. We keep one national price so people in any state
 north, south, delta, dry zonepay the same.
+
+## What Did the Internal Audit Reveal?
+
 So I called in the sales rep and the manager.
 I told my internal audit team to verify: Did the installer actually receive 10,000 MMK the
 original 5,000 plus the extra 5,000 written on the voucher?
 The answer was yes.
 
-> **Field Data Evidence:** Selling price: 25,000 MMK. Product cost: 20,000 MMK. Installation cost: 5,000 MMK. Extra payment to installer: 5,000 MMK.
+> **Field Data Evidence:** Selling price: 25,000 MMK. Installation cost written on voucher: 5,000 MMK. Total paid to installer: 10,000 MMK.
 
-## What was the unexpected twist?
+## What Was the Twist in the Situation?
 
 Now here’s the twist.
 The sales rep had been with us for over 10 years. Loyal. Never a complaint. Never a
@@ -54,14 +57,14 @@ No bad intention. No cheating. Just a mistake.
 But the voucher carried his signature.
 And under the system I built, policy leaves no room for explanation.
 
-## What was the ultimate decision?
+## Why Was the Rep Terminated?
 
 So I terminated him.
 It was the hardest termination decision of my entire 20+ years in sales.
 But I did one thing: To honor his loyalty, I asked his son to come for an interview. We
 trained him. He passed. He took his father’s place in the same territory.
 
-## What was the lasting impact?
+## What Was the Lasting Impact of the Decision?
 
 And here’s the part that still stays with me
 That sales rep stayed loyal to us even after being terminated. He still spoke well of us.
@@ -74,4 +77,15 @@ Zero tolerance? Yes but for bad intentions, not honest mistakes.
 That incident happened ten years ago, and I still carry it with me. Not as regret but as a
 reminder that leadership is not just about protecting the system. It’s also about
 understanding the human behind the mistake.
+
+### Frequently Asked Questions
+
+**Q: What was the sales rep's tenure with the company?**
+A: The sales rep had been with the company for over 10 years.
+
+**Q: What was the manager's reasoning for instructing the rep to pay extra?**
+A: The manager thought paying extra would keep the installer happy and motivated.
+
+**Q: What action was taken to honor the terminated rep's loyalty?**
+A: The rep's son was interviewed, trained, and hired to take his father's place.
 {{< figure src="26.png" title="The Hardest Termination Decision of My Career" >}}

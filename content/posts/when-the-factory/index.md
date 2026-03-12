@@ -1,6 +1,6 @@
 ---
 title: "When the Factory Turns to Ash"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,9 +8,9 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   Last mile distribution in Shan South has been severely disrupted by conflict.
-*   Farmers are increasingly reliant on seasonal credit, impacting fertilizer input shop owners.
-*   Trust-based systems are proving surprisingly resilient in maintaining sales.
+*   Last-mile distribution in Shan South is severely impacted by recent events.
+*   Farmers require extended seasonal credit (3-4 months) due to the crisis.
+*   Trust-based systems are proving resilient where conventional methods fail.
 
 ## What Happens When Factories Turn to Ash?
 
@@ -60,7 +60,7 @@ No contracts.
 No legal enforcement.
 Just relationships, reputation, and shared survival.
 
-> **Field Data Evidence:** The bio and natural fertilizer producer is selling twice as much as before. Farmers require three to four months of seasonal credit.
+> **Field Data Evidence:** One producer is selling twice as much fertilizer as before, despite the crisis.
 
 ## What is the Key to Survival in Crisis Economies?
 
@@ -77,4 +77,15 @@ In crisis economies, survival depends less on contracts and more on how deeply y
 understand the people you work with.
 When factories turn to ash, trust becomes the last remaining currency.
 And sometimes, it is the only one that still works.
+
+### Frequently Asked Questions
+
+**Q: What is the primary challenge facing farmers in Shan South?**
+A: Farmers require extended seasonal credit (3-4 months) due to the current crisis.
+
+**Q: What is replacing conventional business practices in the region?**
+A: Trust-based systems rooted in local culture are proving more resilient than traditional contracts and legal enforcement.
+
+**Q: What is the most valuable asset in a crisis economy?**
+A: Trust becomes the last remaining currency when conventional systems fail.
 {{< figure src="22.jpeg" title="When the Factory Turns to Ash" >}}

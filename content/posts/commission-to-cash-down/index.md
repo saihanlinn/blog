@@ -1,6 +1,6 @@
 ---
 title: "98% Consignment Sales to 90% Cash Down: The Hardest Culture Shift of My Sales Career"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -9,10 +9,10 @@ draft: false
 ## Field Intelligence: Executive Summary
 
 *   Shifted from 98% consignment sales to 90% cash-down in Myanmar last mile distribution.
-*   Implemented a commission structure incentivizing cash-down sales, increasing commissions up to 30-50%.
-*   Utilized a Power BI dashboard to create transparency and competition among sales zones.
+*   Implemented a commission structure rewarding cash-down sales with up to 30-50% higher commissions.
+*   Utilized a public Power BI dashboard to create transparency and competition among sales zones.
 
-## What Challenges Did the Author Face Initially?
+## What Problem Was the Organization Facing?
 
 When I first joined the organization as National Sales Director, I was excited. The product was solid. The team was eager. The partners were in place.
 But we have Significantly Cashflow problem
@@ -25,9 +25,7 @@ Many of the items no longer even looked like products—they were just inventory
 for a miracle. Some had been sitting for two, three, even four years.
 We weren’t just bleeding value. We were bleeding pride.
 
-> **Field Data Evidence:** Inventory was sitting for two, three, even four years in some locations.
-
-## What Was the Core Problem?
+## What Did the Sales Reports Reveal?
 
 When I pulled the sales reports, the picture became clear:
 98% of all sales were done through consignment.
@@ -38,7 +36,7 @@ in. Inventory was rotting in the field. And our team? They didn’t see a way ou
 
 > **Field Data Evidence:** 98% of all sales were done through consignment.
 
-## What Beliefs Were Holding the Team Back?
+## What Belief Was Holding Everyone Back?
 
 I started asking around.
 Sales reps. Territory managers. Even long-time partners.
@@ -49,7 +47,7 @@ And I understood. This wasn’t just a sales issue. It was a culture issue. A ha
 entrenched way of doing business in Myanmar last mile distribution
 If I wanted to fix this, I couldn’t just change policy. I had to change belief.
 
-## How Did the Author Start Building a New System?
+## How Was a New System Built?
 
 So I didn’t ban consignment overnight. That would’ve been suicide.
 Instead, I redesigned the commission system.
@@ -63,9 +61,7 @@ We gave them options to offer customers: “You want a better discount? Let’s 
 cash terms.” “You want priority delivery? Try pre-ordering with partial payment.”
 No pressure. Just pathways.
 
-> **Field Data Evidence:** Commission for high volume, cash-down sales was increased to 30-50%. Commission for credit or consignment sales dropped to 2-5%.
-
-## How Did They Turn Commission Into a Sport?
+## How Was Commission Turned Into a Sport?
 
 Then came one of the smartest moves we made.
 We built a Power BI dashboard—and made it public to every zone manager.
@@ -108,9 +104,9 @@ But more than anything else—the mindset changed.
 People stopped saying, “Customers won’t pay cash.” They started asking, “How do we
 guide them to?”
 
-> **Field Data Evidence:** Shifted from 98% consignment to 90% cash-down. Credit sales dropped to 10%. Consignment sales dropped to 0%.
+> **Field Data Evidence:** By year two, the numbers flipped: From 98% consignment, we moved to 90% cash-down. Credit sales dropped to just 10%. Consignment? 0%.
 
-## What Key Lessons Were Learned?
+## What Lessons Were Learned?
 
 This was the hardest culture shift of my career. Because I wasn’t just changing
 systems—I was changing beliefs.
@@ -120,4 +116,15 @@ And I learned that...
 ● Transparency builds momentum—especially when performance is public
 ● Real leadership means being patient enough to show, not just tell
 Some lessons come from Harvard. But the best ones come from the field.
+
+### Frequently Asked Questions
+
+**Q: What percentage of sales were consignment-based initially?**
+A: 98% of all sales were done through consignment.
+
+**Q: What was the key incentive for sales reps to push for cash-down sales?**
+A: A significantly higher commission, up to 30-50%.
+
+**Q: What tool was used to create transparency and competition among sales zones?**
+A: A public Power BI dashboard showing total commission earned by each zone.
 {{< figure src="sales-rep-meiktila.jpg" title="98% Consignment Sales to 90% Cash Down: The Hardest Culture Shift of My Sales Career" >}}

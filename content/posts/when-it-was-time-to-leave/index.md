@@ -1,18 +1,18 @@
 ---
-title: "When It Was Time to Leave the Organization I Loved the Most"
-date: 2026-03-11
+title: "Leaving to Grow: A Leader's Journey in Myanmar"
+date: 2026-03-12
 draft: false
 ---
 
-# When It Was Time to Leave the Organization I Loved the Most
+# Leaving to Grow: A Leader's Journey in Myanmar
 
 ## Field Intelligence: Executive Summary
 
-*   Transitioned from profit-driven FMCG to a social enterprise model in Myanmar.
-*   Implemented decentralized leadership, empowering managers in last mile distribution.
-*   Cultivated a coaching culture, fostering growth and shared decision-making.
+*   Built systems to ensure organizational resilience in Myanmar, even with leadership changes.
+*   Implemented decentralized management, empowering field teams with decision-making authority.
+*   Cultivated a coaching culture where knowledge was shared freely, fostering continuous growth.
 
-## How Did My Perspective Shift?
+## How Did a Career Shift Lead to Social Enterprise?
 
 I started my career in the FMCG and liquor industries where everything was about profit. Sales,
 margins, volume, repeat orders and nothing else mattered.
@@ -25,7 +25,7 @@ That’s when I fell in love with the social enterprise model. And even after I 
 the organizations I’ve worked with across Southeast Asia are still social enterprises. Because I
 believe in the model. It runs like a real business, but with purpose at its core.
 
-## How Did My Role Evolve?
+## How Did the Role Evolve Beyond Sales Management?
 
 At the organization, my work evolved. I wasn’t just managing sales anymore. I started coaching
 leaders, building systems, and changing mindsets.
@@ -38,7 +38,7 @@ And then I asked myself the hard question: could the system run without me?
 So I started the process. For six months, I coached my replacement. I slowly stepped back from
 day-to-day management, letting the managers take full charge.
 
-## What Was the Final Test?
+## What Was the Final Test of Leadership?
 
 The final test came at a big sales refresher training. Twelve managers ran the entire program. It
 was a Training of Trainers and I stood on the side, just watching. Zero involvement.
@@ -50,43 +50,59 @@ Walking away from the organization I loved the most was not easy. But it was the
 Because they didn’t need me anymore. They were stronger without me. And that is the greatest
 achievement a leader can hope for.
 
-## What Lessons Did I Learn for Last-Mile Companies?
+## What Lessons Can Last-Mile Companies Learn?
 
-### 1. Decentralization
+### How Can Decentralization Empower Teams?
 
+1. Decentralization
 No central office. Each sales rep worked with their own targets. Reporting was done
 through a lightweight system (Google Forms). Managers had full authority to order
 products, recruit, terminate, adjust salaries, and decide on territories.
 
-### 2. Coaching Culture
+### How Does a Coaching Culture Drive Growth?
 
+2. Coaching Culture
 Coaching wasn’t top down. Managers coached their sales reps. Regional managers
 coached managers. Sales reps even coached their agents. Everyone was both a learner
 and a coach.
 
-### 3. Reflection and Reset
+### Why is Reflection and Reset Important?
 
+3. Reflection and Reset
 Every monthly territory meeting included three elements: reflection on the past month,
 resetting targets for sales and crops, and a training session run by the team itself. Over
 time, everyone became comfortable leading training.
 
-> **Field Data Evidence:** Every monthly territory meeting included three elements: reflection on the past month, resetting targets for sales and crops, and a training session run by the team itself.
+### How Does Sharing Knowledge Improve Performance?
 
-### 4. Growth Through Sharing
-
+4. Growth Through Sharing
 We lived by the belief that “we get better when we share.” Knowledge wasn’t guarded. It
 was multiplied.
 
-### 5. Decisions From the Field
+### Why Should Decisions Originate From the Field?
 
+5. Decisions From the Field
 Policy and field decisions came from managers collectively. Once agreed, not even the
 CEO could override.
 
-## What is the Final Reflection?
+> **Field Data Evidence:** Twelve managers ran the entire sales refresher training program.
+
+## What is the Final Reflection on Leadership?
 
 Leadership is not about being indispensable.
 It’s about making yourself replaceable by building systems, by coaching others, and by creating
 a culture where leaders multiply.
 The proudest moment for any leader isn’t holding onto power.
 It’s the day you step aside, and the team grows stronger without you.
-{{< figure src="28.jpeg" title="When It Was Time to Leave the Organization I Loved the Most" >}}
+
+### Frequently Asked Questions
+
+**Q: What reporting system was used in the decentralized model?**
+A: Reporting was done through a lightweight system using Google Forms.
+
+**Q: What were the three elements of the monthly territory meetings?**
+A: Reflection on the past month, resetting targets for sales and crops, and a training session run by the team itself.
+
+**Q: What happened when policy and field decisions were agreed upon by managers?**
+A: Once agreed, not even the CEO could override those decisions.
+{{< figure src="28.jpeg" title="Leaving to Grow: A Leader's Journey in Myanmar" >}}

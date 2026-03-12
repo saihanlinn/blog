@@ -1,6 +1,6 @@
 ---
 title: "The Day I Lost Face—and Felt Most Proud"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,9 +8,9 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   The article discusses lessons learned from last mile distribution in Myanmar.
-*   A key theme is giving autonomy to local zones to boost Myanmar sales.
-*   The author highlights the importance of a bottom-up (BOP) strategy and decentralized leadership.
+*   The article details a shift from centralized control to decentralized leadership in last-mile distribution in Myanmar.
+*   A key incident involves a sales interaction in Kamma Township where a zone manager enforces a "no installment sales" rule, even against the author.
+*   The success of the Bottom of the Pyramid (BOP) strategy hinges on empowering local teams to make autonomous decisions.
 
 ## The Unexpected Oasis in the Dry Zone
 
@@ -20,7 +20,7 @@ This part of Magway becomes an unlikely oasis. Rich in nutrients carried by the 
 
 I was traveling with my Zone Manager, Chit Kaung, who leads our sales team across eight townships in this region. Over the past year, his zone had become one of the top-performing in the country—and I wanted to see why.
 
-## How Do You Build Real Ownership?
+## How Do You Build Real Ownership by Giving Up Control?
 
 Last year, I made a decision that could’ve easily gone wrong. I dismantled our centralized system. No more top-down approvals. No regional offices. No field supervisors holding clipboards. I gave full autonomy to each zone, including the power to hire and fire, design commission structures, and shape their own operations—within a shared framework of KPIs and backbone policies.
 
@@ -28,7 +28,7 @@ I wasn’t sure if it would work. But I knew it had to be tried.
 
 Now, a year later, I was riding through the backroads of Magway, visiting installations, speaking with customers, and trying to learn—quietly—from the people who made it work.
 
-## How Do You Balance Old Habits with New Rules?
+## How Do Old Habits Interact with New Rules?
 
 Late that morning, we arrived at a customer’s house where Chit Kaung’s team was doing an installation. While he coached his sales reps and gave technical guidance, I wandered off. Not far from the house, I noticed a man leaning against a tree, watching everything from a distance.
 
@@ -66,7 +66,7 @@ Now I was sweating. Literally. And maybe a bit emotionally too.
 
 But the customer smiled. “It’s fine. I’ll pay cash,” he said. “This is the first time I’ve seen a boss respect his team’s rules like this. Especially in a village.”
 
-## What Does Real Leadership Look Like?
+## How Does Real Leadership Emerge When You Let Go?
 
 On the way back, we were quiet for a while. Just the hum of the dusty road and the heat.
 
@@ -76,7 +76,7 @@ I smiled.
 
 “Chit Kaung,” I said, “you made me proud today.”
 
-## How Do You Know the Foundation is Solid?
+## How Did the Foundation We Built Actually Work?
 
 That night, I lay on the bed in the small hotel room, the fan spinning above me, and thought about the day.
 
@@ -93,4 +93,15 @@ That day, I lost face. But I saw something stronger rise in its place.
 A team that had become unshakable.
 
 > **Field Data Evidence:** Real decentralization begins when your people can say “no” to you. That’s when you know you’ve built something stronger than control—you’ve built trust.
+
+### Frequently Asked Questions
+
+**Q: What is the key element of real decentralization?**
+A: Real decentralization begins when your people can say “no” to you.
+
+**Q: What was the specific rule that the Zone Manager enforced?**
+A: The rule was that the zone only allowed cash sales, not installment sales.
+
+**Q: Where did this incident take place?**
+A: The incident took place in Kamma Township, Tayet District, Magway Region, Myanmar.
 {{< figure src="x1.jpeg" title="The Day I Lost Face—and Felt Most Proud" >}}

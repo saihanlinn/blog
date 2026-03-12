@@ -1,6 +1,6 @@
 ---
 title: "The Dealer Economy: Trust Runs Deeper Than Contracts"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,17 +8,17 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   Dealers, brokers, and influencers form the quiet backbone of the rural Myanmar economy, particularly in last mile distribution.
-*   The author's experience with a donor-funded "farm-to-plate" project in Myanmar failed due to the inability to replicate the flexibility and personal relationships offered by dealers.
-*   Despite potential weaknesses like price setting and margin building, the dealer economy persists due to its speed, trust, cash flow, and presence, especially in rural areas.
+*   Rural Myanmar's economy relies heavily on dealers, brokers, and influencers.
+*   Dealers provide farmers with essential resources like fertilizers, inputs, and cash without formal contracts.
+*   A donor-funded "farm-to-plate" project failed due to the inability to match the dealers' flexibility and relationship-based approach.
 
-## Who are the Unsung Heroes of Rural Economies?
+## Who Are These "Middlemen" Really?
 
 Most international projects I worked on called them “middlemen.”
 But we the people in the field know them better as dealers, brokers, and influencers. And in
 rural Myanmar, they’re the economy’s quiet backbone.
 
-## How Does Trust Replace Traditional Finance?
+## How Does the Dealer System Work in Practice?
 
 Take my own experience. I own a rubber farm in southern Myanmar. When the season starts, I
 don’t need to visit a bank. I don’t need collateral. I don’t even need cash on hand.
@@ -56,7 +56,7 @@ We had contracts; they had relationships.
 We had terms; they had time.
 We had call centers; they showed up at the door with a motorbike and a big smile.
 
-## What are the Drawbacks of the Dealer Economy?
+## What Are the Drawbacks of the Dealer Economy?
 
 But let’s be honest the dealer economy isn’t perfect.
 Some dealers set the purchase price right at your farm , no negotiation.
@@ -87,4 +87,15 @@ But until a better model exists that works everywhere, not just in pilot zones,
 This is the system we still rely on.
 It may not be perfect.
 But in the last mile, trust is still currency, and the dealer and broker economy runs on it.
+
+### Frequently Asked Questions
+
+**Q: What do dealers provide to farmers in Myanmar?**
+A: Dealers provide farmers with fertilizers, inputs, and cash, often without formal contracts or collateral.
+
+**Q: Why did the donor-funded "farm-to-plate" project fail?**
+A: The project failed because it couldn't match the dealers' flexibility, relationship-based approach, and ability to provide immediate assistance for various needs.
+
+**Q: What are the main benefits of the dealer economy?**
+A: The dealer economy offers speed, trust, cash flow, and a physical presence, which are difficult for other systems to replicate reliably at scale.
 {{< figure src="36.jpeg" title="The Dealer Economy: Trust Runs Deeper Than Contracts" >}}

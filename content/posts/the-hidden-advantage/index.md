@@ -1,6 +1,6 @@
 ---
 title: "The Hidden Advantage of Not Being the Expert"
-date: 2026-03-11
+date: 2026-03-12
 draft: false
 ---
 
@@ -8,11 +8,11 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   The Sagaing Region in Myanmar struggled with consistent regional management, impacting field coaching and leadership.
-*   A sales rep's fear of approaching "Chinese farms" due to perceived technological and crop knowledge gaps was overcome with a simple sales strategy.
-*   Focusing on customer needs, specifically addressing uneven water distribution, led to a significant market share increase in the region.
+*   Sagaing Region in Myanmar struggled with consistent regional management due to high turnover.
+*   A sales rep overcame fear and increased sales by focusing on customer needs rather than crop expertise.
+*   Uneven water distribution on farms was identified as a key pain point, leading to a successful product demonstration and sale.
 
-## How did one moment in the field transform a struggling sales rep into a top leader?
+## How Did a Field Visit Transform a Sales Rep?
 
 Some regions are simply harder than others.
 For two years, our Sagaing Region in Myanmar had no stable regional manager.
@@ -24,7 +24,7 @@ and Google Meet.
 If you’re afraid to walk the fields, you can’t lead the people working in them especially when the
 people that you are leading need you to guide them.
 
-## What is the state of the land in transition?
+## What Challenges Did Farmers Face in Myanmar?
 
 Myin Mu Township in Sagaing is famous for its fertile farmland , hundreds of thousands of acres,
 much of it rented to Chinese companies. They grow chillies and melons with impressive yields,
@@ -32,7 +32,7 @@ but at a cost: heavy chemical use that leaves the soil weak or acidic after just
 It’s heartbreaking to see , a short-term profit for outsiders, a long-term loss for local farmers.
 Many villages had already rented their land, but a few still held out.
 
-## How did a simple ride lead to a pivotal farm visit?
+## How Did a Motorbike Ride Lead to a Breakthrough?
 
 That day, I was training one of my sales reps. We set off on a motorbike toward his target village
 45 minutes of riding past endless fields of dragon fruit, watermelon, and chilli.
@@ -43,7 +43,7 @@ I could see the real problem: it was fear.
 So I told him, “Next farm you see, Stop. I’ll show you how to sell.”
 We pulled up to a watermelon farm.
 
-## How did zero knowledge lead to a successful sale on 100 acres?
+## How Did Zero Knowledge Lead to a Sale?
 
 The farm was massive, over 100 acres, owned by a wealthy, educated farmer who had even
 hired a Chinese watermelon expert to oversee production.
@@ -61,7 +61,7 @@ We closed the deal right there.
 
 > **Field Data Evidence:** Uneven water distribution could slash the market price by 30%.
 
-## What was the ripple effect of this single sale?
+## What Was the Ripple Effect of the Sale?
 
 That one farm became our story , a case we could share with every other melon farmer in the
 area. Soon, our market share in the region grew significantly.
@@ -74,15 +74,26 @@ worry, and speaks to that need.”
 That afternoon, he walked into farms he had avoided for over a year and sold and the next
 farm, It was Mango Orchard, He sold again on the same day. I can see something click in him, it
 almost looks like he has been waiting for the moment to happen.
-
-## What is the ultimate takeaway from this experience?
-
 Two years later, that same rep became the top salesperson in the region and the first regional
 manager who could influence the entire territory, leading six other managers.
+
+## What is the Key Takeaway?
+
 The takeaway:
 Not being an expert freed me from trying to “sound smart” and pushed me to simply listen.
 It gave the customer space to reveal the real problem, and gave my sales rep permission to be
 curious instead of fearful.
 Sometimes, the hidden advantage is not what you know, but what you’re willing to learn in the
 moment.
+
+### Frequently Asked Questions
+
+**Q: What was the main problem in the Sagaing Region of Myanmar?**
+A: The region lacked a stable regional manager, leading to chaos and a lack of field coaching.
+
+**Q: What was the farmer's biggest concern that led to the sale?**
+A: The farmer was worried about uneven water distribution on his sloped land, which affected fruit size and market price.
+
+**Q: What did the sales rep learn from the experience?**
+A: The sales rep learned that understanding the product's benefits and listening to the customer's needs is more important than being an expert on the crop.
 {{< figure src="33.jpeg" title="The Hidden Advantage of Not Being the Expert" >}}
