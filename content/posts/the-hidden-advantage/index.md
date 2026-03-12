@@ -6,9 +6,9 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   Sagaing Region in Myanmar struggled with consistent regional management due to high turnover.
+*   Sagaing Region in Myanmar previously had no stable regional manager due to high turnover.
 *   A sales rep overcame fear and increased sales by focusing on customer needs rather than crop expertise.
-*   Uneven water distribution on farms was identified as a key pain point, leading to a successful product demonstration and sale.
+*   Listening to customer concerns about uneven water distribution led to a significant sale and increased market share.
 
 ## How Did a Field Visit Transform a Sales Rep?
 
@@ -86,12 +86,12 @@ moment.
 
 ### Frequently Asked Questions
 
-**Q: What was the main problem in the Sagaing Region of Myanmar?**
-A: The region lacked a stable regional manager, leading to chaos and a lack of field coaching.
+**Q: Why was the Sagaing Region in Myanmar so difficult to manage?**
+A: The region had high turnover, with regional managers frequently quitting or being terminated, leading to chaos and a lack of leadership.
 
 **Q: What was the farmer's biggest concern that led to the sale?**
-A: The farmer was worried about uneven water distribution on his sloped land, which affected fruit size and market price.
+A: The farmer was worried about uneven water distribution on his sloped land, which could lead to uneven fruit sizes and a lower market price.
 
 **Q: What did the sales rep learn from the experience?**
-A: The sales rep learned that understanding the product's benefits and listening to the customer's needs is more important than being an expert on the crop.
+A: The sales rep learned that it's not necessary to be an expert on the crop to make a sale; understanding the product's benefits and listening to the customer's needs are more important.
 {{< figure src="33.jpeg" title="The Hidden Advantage of Not Being the Expert" >}}

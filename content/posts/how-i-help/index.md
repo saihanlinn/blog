@@ -6,9 +6,9 @@ draft: false
 
 ## Field Intelligence: Executive Summary
 
-*   Over 90% of sales on consignment drained cash in Myanmar's last-mile distribution.
-*   A point-based system cut consignment to under 10% and boosted volume by 40%.
-*   Monsoon irrigation sales revived, and reps sold year-round using this BOP strategy.
+*   Over 90% of sales were previously on consignment, draining cash flow.
+*   A point-based system boosted sales volume by 40% across multiple companies in Myanmar.
+*   The system revived monsoon irrigation sales and kept reps selling year-round, addressing seasonal slumps.
 
 ## What Challenges Do Last-Mile Distribution Companies Face in Myanmar?
 
@@ -36,13 +36,13 @@ sales, and kept reps selling year-round.
 The Point System: A Five-Pronged Solution
 Here is how it works:
 
-### How Does the System Prioritize Cash-Down Sales?
+### How Do You Incentivize Cash-Down Sales?
 
 To Push Priority on Cash-Down
 8 points for cash-down sales, 4 for credit, 1 for consignment. It showed everyone that cash is
 king
 
-### How Does the System Boost Volume?
+### How Do You Boost Sales Volume?
 
 Volume Boost
 Bonus points for monthly units sold:
@@ -51,20 +51,20 @@ Bonus points for monthly units sold:
 *   201–300 = 100 points
 *   301+ = 200 points
 
-### How Does the System Address Monsoon Season Slumps?
+### How Do You Overcome Seasonal Sales Slumps?
 
 Monsoon Push
 From June–September, irrigation bonuses double (e.g., 200 → 400 points) so reps target
 markets like Pyin Oo Lwin, where sandy soil demands sprinklers even in rain. This is just one
 case, reps usually find ways to sell if they were being incentivised right even in crisis time.
 
-### How Does the System Encourage New Product Launches?
+### How Do You Encourage New Product Launches?
 
 Launching a new product
 First 3 months: 16/8/2 points (cash/credit/consignment).
 By month 6: 12/6/1.5 points.
 
-### How Does the System Foster Self-Motivation?
+### How Do You Foster Self-Motivation in Sales Reps?
 
 Self-Motivation
 Consistency bonuses for sales days per month:
@@ -86,31 +86,30 @@ A Power BI or Mobile Apps leaderboard makes it a daily race, and makes it visibl
 
 > **Field Data Evidence:** In July, a rep sells 250 units in 18 days. That earns 2750 points (capped at 2500) and pays out 1,925,000 MMK.
 
-## What Kind of Culture Shift Did This System Create?
+## What Kind of Culture Shift Can This System Create?
 
 The Culture Shift
 This system created a major shift across my clients’ teams.
 
-> **Field Data Evidence:**
-> *   Consignment dropped below 10%.
-> *   Sales volume grew 40%.
-> *   Monsoon irrigation sales rose 25%.
-> *   New products reached 30% of total sales in 3 months.
-> *   80% of reps sold 20+ days monthly.
+> **Field Data Evidence:** Consignment dropped below 10%.
+> **Field Data Evidence:** Sales volume grew 40%.
+> **Field Data Evidence:** Monsoon irrigation sales rose 25%.
+> **Field Data Evidence:** New products reached 30% of total sales in 3 months.
+> **Field Data Evidence:** 80% of reps sold 20+ days monthly.
 
 There is a sales rep called Ko Phyo , a rep who once said, “No one buys in the rain.” With the
 new bonus system, he re-targeted sandy-soil farms in Pyin Oo Lwin and hit 2750 points, and
 earned enough to open a family shop.
 The system turned him from an excuse-maker into a self-starter.
 
-## What is the Key to Success with This System?
+## What is the Key to Successful Implementation?
 
 The key was leadership. Managers had to explain the system clearly, use leaderboards for
 transparency, and coach reps to bust old myths. At first, we nearly skipped the consistency
 bonus, thinking volume was enough. But adding it changed everything. Reps became their own
 bosses.
 
-## What Are the Final Reflections on This System?
+## What Are the Key Takeaways?
 
 Final Reflection
 In last-mile markets,we need systems that match the reality on the ground.
@@ -130,8 +129,8 @@ Get them right, and even in a crisis economy, your team will not just survive—
 A: Consignment dropped below 10%.
 
 **Q: By how much did sales volume grow after implementing the point system?**
-A: Sales volume grew 40%.
+A: Sales volume grew by 40%.
 
 **Q: What was the impact on new product sales within 3 months of implementing the point system?**
-A: New products reached 30% of total sales in 3 months.
+A: New products reached 30% of total sales.
 {{< figure src="27.jpeg" title="Turning Sales Teams into Cash-Generating Machines in Myanmar" >}}
